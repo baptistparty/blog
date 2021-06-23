@@ -19,3 +19,5 @@ author: Jon
 [Don Hinkle - Mo. Pathway](https://mbcpathway.com/2021/06/22/assessing-the-sbcs-gathering-in-nashville/)
 
 [Nate Adams (Ill)](https://illinoisbaptist.org/takeaways-from-this-years-sbc/?fbclid=IwAR20SPxQNig1kKBXdKO4ztYL7vLEfMeBGclzdBe5o9pASnIvA937pxdaFQ8)
+
+[Ronnie Floyd](https://mailchi.mp/sbc.net/a-few-highlights-from-2021-sbc-annual-meeting-in-nashville?e=383ac833f0)

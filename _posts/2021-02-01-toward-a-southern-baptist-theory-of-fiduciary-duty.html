@@ -15,3 +15,15 @@ link: http://daringfireball.net
 <p>Of course, Baptists are all-too-familiar with entities &ldquo;captured&rdquo; by some other concerns.  Southern Baptists in the 1960s and 1970s faced a Convention bureaucracy that opposed its churches on key theological matters.  But entities can also be captured when they allow secondary goals to become primary goals.  "Growth&rdquo; is good in pursuit of the right purpose.  But &ldquo;growth at any cost&rdquo; can cause sickness instead of health. </p>
 <p>Having trained and worked with Baptist trustees for several years, I now see limits to the &ldquo;house cleaning&rdquo; approach.  Fewer and fewer Baptist churches practice strong congregational polity.   Nearly everywhere, pastors and laymen call &ldquo;business meetings&rdquo; and &ldquo;Roberts Rules&rdquo; archaic, unenjoyable, or a waste of time. So, laymen and pastors picked out of the crowd no longer have a common understanding of local church polity, or how cooperative program giving relates to Baptist theology.  </p>
 <p>Too often, we assume a shared foundation that isn't there.  We often portray the Cooperative Program as a clever invention or fundraising method.  And of course, the Cooperative Program is a fantastic method, but so is the...</p>
+
+
+<form method="POST" action="https://baptist-party.herokuapp.com/v3/entry/github/baptistparty/blog/main/comments">
+    <input name="options[redirect]" type="hidden" value="{{post.url}}">
+    <!-- e.g. "2016-01-02-this-is-a-post" -->
+    <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+    <label><input name="fields[name]" type="text">Name</label>
+    <label><input name="fields[email]" type="email">E-mail</label>
+    <label><textarea name="fields[message]"></textarea>Message</label>
+    
+    <button type="submit">Go!</button>
+  </form>

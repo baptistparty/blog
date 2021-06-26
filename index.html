@@ -6,7 +6,7 @@ title: Blog
     
       {% if post.link %}
       <h2><a href="{{ post.link }}">
-          {{ post.title }}
+        {{ post.title }} <span class="permalink"> ★</span>
         </a>
     </h2>
         {{post.date| date: '%B %d, %Y' }}

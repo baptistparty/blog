@@ -19,6 +19,10 @@ layout: default
 
 {{content}}
 
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
+
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}

@@ -26,6 +26,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://baptistparty.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  baptistparty
+staticman_url: https://baptist-party.herokuapp.com/v2/entry/baptistparty/blog/master/comments
 
 # Build settings
 theme: jekyll-theme-minimal

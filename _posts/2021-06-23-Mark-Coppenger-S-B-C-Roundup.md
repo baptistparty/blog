@@ -2,7 +2,8 @@
 layout: post
 title:  "Mark Coppenger SBC Followup"
 date:   2021-06-22 22:35:14 -0500
-categories: jekyll update
+author: Jon
+categories: sbc21 update
 link: https://markcoppenger.herokuapp.com/ruminations/what-i-would-have-said
 ---
 

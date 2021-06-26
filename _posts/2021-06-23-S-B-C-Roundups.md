@@ -4,6 +4,7 @@ title:  "Roundup of SBC Roundups"
 date:   2021-06-22 22:35:14 -0500
 author: Jon
 # link: https://markcoppenger.herokuapp.com/ruminations/what-i-would-have-said
+comments: true
 ---
 
 [Blake White](https://www.blakewhite.org/blog/2021/6/19/post-sbc21-reflections?fbclid=IwAR1AiO7nDswaUXSuUP9c1Hmx0d1wPWJA1h2DBEM26Eq5pg0uzDbQcQ3tr6A).

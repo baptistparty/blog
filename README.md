@@ -1,2 +1,3 @@
-# blog
-the blog
+# baptist.party
+
+... sounds a little like baptist polity.  

@@ -1,0 +1,10 @@
+--- 
+---
+@import "{{ site.theme }}";
+@import "comment-styles";
+@import "body-styles";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&family=IBM+Plex+Sans+Condensed:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=IBM+Plex+Serif:ital@0;1&display=swap');
+
+body {font-family: "IBM Plex Sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+h1, h2, h3, h4, h5, h6 { color: #222; margin: 0 0 20px; font-weight: 200,}çç

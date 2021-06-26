@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Toward a  Southern Baptist theory of fiduciary duty
+comments: true
 ---
 
 <p>What good is a Baptist trustee? </p>
@@ -15,6 +16,9 @@ title: Toward a  Southern Baptist theory of fiduciary duty
 <p>Having trained and worked with Baptist trustees for several years, I now see limits to the &ldquo;house cleaning&rdquo; approach.  Fewer and fewer Baptist churches practice strong congregational polity.   Nearly everywhere, pastors and laymen call &ldquo;business meetings&rdquo; and &ldquo;Roberts Rules&rdquo; archaic, unenjoyable, or a waste of time. So, laymen and pastors picked out of the crowd no longer have a common understanding of local church polity, or how cooperative program giving relates to Baptist theology.  </p>
 <p>Too often, we assume a shared foundation that isn't there.  We often portray the Cooperative Program as a clever invention or fundraising method.  And of course, the Cooperative Program is a fantastic method, but so is the...</p>
 
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
 
 <form method="POST" action="https://baptist-party.herokuapp.com/v2/entry/baptistparty/blog/main/comments">
     <input name="options[redirect]" type="hidden" value="https://baptistparty.github.io/blog/">

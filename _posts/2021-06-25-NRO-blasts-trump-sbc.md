@@ -16,8 +16,8 @@ Kevin Williamson blasts everyone to the right of Ed Litton:
 
 <hr>
 
-A couple of comments notes: 
-1. The SBC CRT controversy managed to predate the Republican version by a good three or four years, beginning with the recommendations from SBTS and SEBTS faculty.  
+A couple of notes: 
+1. The SBC CRT controversy managed to predate the Republican version by a good three or four years, beginning with the recommendations from SBTS and SEBTS faculty, and then the MLK50 conference.  Whatever your thoughts about CRT, the SBC isn't reacting to a Fox News cycle.   
 2.  While this article was criticized by notable SBCers, it was treated as "harsh but fair" by several others.   
   > [Michael Linton](https://twitter.com/MBLinton/status/1408445525343588359)<br>
   > [Samuel James](https://twitter.com/samueld_james/status/1408430511714975745)<br>

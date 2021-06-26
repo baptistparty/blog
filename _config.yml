@@ -22,8 +22,8 @@ title: baptist.party
 email: jon@baptist.party
 description: >- # this means to ignore newlines until "baseurl:"
   A little too much coffee and Roberts' Rules.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://baptistparty.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://baptist.party" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  baptistparty
 staticman_url: https://baptist-party.herokuapp.com/v2/entry/baptistparty/blog/main/comments

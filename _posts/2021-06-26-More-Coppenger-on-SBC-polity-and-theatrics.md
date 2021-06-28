@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Cooppenger on SBC polity and theatrics
+title: More Coppenger on SBC polity and theatrics
 comments: true
 link: https://markcoppenger.herokuapp.com/ruminations/%E2%80%9Ci-didn%E2%80%99t-come-up-from-texas-to-vote-against-god%E2%80%9D
 author: Jon

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stand on the religious academy
+title: Strand on the religious academy
 comments: true
 link: https://twitter.com/DDFStrand/status/1407674509306564620
 author: Jon

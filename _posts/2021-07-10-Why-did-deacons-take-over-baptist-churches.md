@@ -16,7 +16,10 @@ author: Jon
     
     Those are both right, in a sense, but I think we're missing the most important part. 
 
-    Were American Baptists 'inattentive to scripture'?  In some sense, all sin is a failure to heed God's commands in scripture.  But if there's a "Baptist" trait, it's persnickitiness about the scripture on churches.  Having rejected Popes, bishops, synods, presbyters, sessions, and state churches, Baptists insist the want church **as the Bible commands,** no more, and no less.  The 19th and 20th centuries had no shortage of literalists and Fundamentalists willing to call out deviations. There were hardshells and landmarkers, anti-missionary baptists, anti-missionary society baptists, anti-Sunday school baptists. The Baptist committement to following scripture and individual conscience is so high, they appear schismatic to many outsiders.    
+    
+    # Limits to the standard explanation
+    
+    Were American Baptists 'inattentive to scripture'?  In some sense, all sin is a failure to heed God's commands in scripture.  But if there's a "Baptist" trait, it's persnickitiness about the scripture on churches.  Having rejected Popes, bishops, synods, presbyters, sessions, and state churches, Baptists insist they want church **as the Bible commands,** no more, and no less.  The 19th and 20th centuries had no shortage of literalists and Fundamentalists willing to call out deviations. There were hardshells and landmarkers, anti-missionary baptists, anti-missionary society baptists, anti-Sunday school baptists. The Baptist committement to following scripture and individual conscience is so high, they appear schismatic to many outsiders.    
     
     So while any error is connected to inattention to scripture, it's still strange that there was never much of a fight between  "elderists" and  "deaconists."  No group called out the encroaching pragmatism and liberalism of the deaconists, and no deaconists claimed the primacy of orthopraxy before a watching world. If a plurality of elders is biblical and historic, how did the deaconists win without a fight? 
 
@@ -26,7 +29,9 @@ author: Jon
 
     So how did people attentive to scripture, and longing for New Testament polity, wind up with a "deacon-led" polity? Like the answer to so many Baptist questions, you'll need to go back to the Glorious Revolution to find the answer.
 
-    As you'll recall, after Henry the VIII broke with Rome, the Church of England viciously persecuted anyone that did not conform to the state church.  Early Baptist Thomas Helwys bravely wrote the King and denied his authority over the conscience, and he was promptly jailed.  But other Baptists held fast, and refused to submit. And so they were persecuted and harried, along with other "dissenters" and "nonconformists."        
+# Baptists Respond to Persecution, New Freedom in the 17th Century
+
+    As you'll recall, after Henry the VIII broke with Rome, the Church of England viciously persecuted anyone that did not submit themselves to that Church.  Baptists believed the Bible took away the King's authority over religious matters, and refused to submit. And so they were persecuted, along with other groups of "nonconformists."        
 
     In the late 17th Century, Baptists found a friend in King James II, who had converted to Catholicism later in life. James' conversion was scandalous but tolerated, as his heir was a protestant daughter.  He was able to use his personal power to blunt persecution of nonconformists, and his "Declaration for Liberty of Conscience" was welcomed by many Baptists.  But many Anglicans feared James was paving the way for a return to Catholicism. When James fathered a Catholic son in 1688, it threatened to create a Catholic dynasty, and the nation was plunged in crisis. A few weeks later, seven Protestant nobles begged Prince William of Orange to invade.  William, a Dutch Calvinist, had married James' daughter, Mary.  When William landed in England with a small army, James fled. 
 
@@ -34,23 +39,36 @@ author: Jon
 
     Now you'll understand why there was an explosion of Baptist works in the late 17th Century. Baptists were finally allowed to gather legally and write out their theology at length.  Much of the Second London Baptist Confession (dated 1689) responds to the political and legal questions around the new freedoms.[2]  So in the few years around the Glorious Revolution, Baptists laid down many of the patterns that we still follow today. 
 
-    And so, it's important to understand what the Act of Toleration actually allowed.  While it was a great leap forward for religious liberty, it was nothing like the United States' First Amendment. The Act imposed an oath of support to the King and Queen, and required swearing off Catholic doctrines like transubstantiation.  Nonconformists were still prohibited from most public offices.  
+#  What did the Act of Toleration do? 
+
+    So here it is important to understand what the Act of Toleration actually allowed.  While it was a great leap forward for religious liberty, it was nothing like the United States' First Amendment. The Act of Toleration imposed a long oath of support to the King and Queen, and required swearing off Catholic doctrines. It did not allow nonconformists to hold most public offices.  
 
     And in order to preach, nonconformist ministers still had to affirm most of the Church of England's thirty-nine articles.  Nonconformist preachers had to register their place of preaching.  "Anabaptists" (and Baptists) could opt out of Article 27's paedobaptism.  Unlike their later, American counterparts, many early English Baptists seem to have agreed to take these oaths.[3]  
     
     And in order to meet, there was a separate requirement for the place of worship.  Each "congregation or assembly" was required to register a "place of meeting," with notice to the Bishop, local deacons, or the justices of the peace.
 
+# Limits of the Act of Toleration, and Dissenters' Workarounds
+
     But the Toleration Act did **not** provide a neat way to put ministers, house of worship, and congregation under the same umbrella. Dissenters were banned from public office, and corporations were considered a public office from the King.  So law did not recognize a "Baptist Church."  The law recognized individual people.  Some individuals were permitted to preach.  And other individuals could gather to hear a permitted preacher, but only at  registered location.
 
     So some of the earliest Baptist meeting houses were actually houses.  An individual could register his home as a meeting place, and then arrange to have a minister preach.  Obviously, these property owners tended to be wealthier and older.  
 
-    But what happens the owner of the churchhouse dies?  Or leaves for another denomination? How could the property be secured to a particular church, if dissentrs could not form corporations?
+    But what happens if the owner of the churchhouse dies?  Or leaves for another denomination? How could the property be secured to a particular church, if dissentrs could not form corporations?
+
+    The common legal workaround was the "trust." Ancient English law allowed land owners to devote property to a charitable public purpose, including religion.  The land might be "owned" by one or more individuals, but the English courts would force the owners to honor the purpose of the "trust."  You could leave property to a single trustee, but as the entire purpose was to avoid the hassle of a person's death, trusts typically have more than one trustee.  And to avoid ties, there are usually *three* trustees.
+
+    So congregations could only 'own' property by giving it to Trustees, for the purpose of a meetinghouse.  It should come as no surprise, then, that trustees were often the deacons. Deacons are charged with care of the physical ministries of the church, and it is only natural that care of the physical building be entrusted to deacon-trustees.  
+    
+     But you'll alos see that, as the landowners, it was the trustees that legally allowed the congregation to gather on their land. And it was the land-owning trustees that allowed for any preacher to preach on their land.  Because the minister had to register his preaching location, it was impossible to register without the consent of the Trustees. And even if the congregation elected a new pastor, it was the trustee-deacons who would have to consent.[3] 
 
     The common workaround was the "trust." Ancient English law allowed land owners to devote property to a charitable public purpose, including religion.  The land might be "owned" by one or more individuals, but the English courts would force the owners to honor the purpose of the trust.  Property could be held by a single trustee, but as the main purpose was to avoid the hassle of an individual person's death, trusts typically have at least three trustees. 
 
     So Baptists could 'own' their church by giving the land to Trustees, dedicated to purpose of a meetinghouse.  But as the landowners, the law saw the Trustees permitting the congregation to gather on their land, according to the trust. And it was the land-owning trustees that allowed a minister to preach on their land.  Because the minister had to register his preaching location, it was impossible to register without the consent of the Trustees.
 
     It should come as no surprise, then, that trustees were often deacons. Deacons are charged with care of the physical representation of the church.  And while the 2LBC says bishop/elders are chosen by "the common suffrage of the church itself," the trustee-deacons would have to consent as landowners.[3] 
+     This meant the law gave the Trust and the Trustees extraordinary control over church doctrine. In one town, a church dedicated to "Presbyterians" eventually had 151 Baptist members, to only 5 Presbyterians. [5]  In the 1800s, there were numerous battles over Presbyterian churches that drifted into Unitarianism. English Courts generally decided that the *actions of the Trustees* were good evidence about the intention of the Trust, regardless of the actual faith of the Congregation. 
+
+
 
 
 
@@ -69,3 +87,15 @@ author: Jon
 [3]   See, e.g., 1696 Oath Rolls for Baptist Ministers in London. http://discovery.nationalarchives.gov.uk/details/r/C4956164.  While taken from earlier confessions, by the time of Toleration, Chapter 23 of the 2LBC allowing for oaths imposed by authority, in matters "ending all strife."  So why did Americans chafe at essentially the same rules?  According to one author, the system was unworkable in Virginia, especially for the itenerant evangelists the sprang up in the Great Awakening.  The Court that granted licesnes was in Williiamsburg, met twice a year, and required a new license (and fee) for each location. https://encyclopediavirginia.org/entries/act-of-toleration-1689/.  Some early Virginia Baptists did comply; the conflict seemss 
 
 [3] Joseph Ivimey writes of an unfortunate incident at Prescot-street Baptist Chapel in 1752. James Fall, the son of a Baptist pastor in Watford, was invited by the deacons be pastor for six months.  At the end, a majority of the congregation voted to extend a call to Fall, but the deacon-trustees were opposed.  The deacons told the majority that could take and keep Fall, but not at the chapel.  And so began a new church at Little Alie Street.    Ivimey, Joseph. A History of the English Baptists: Comprising the principal events of the history of Protestant dissenterts, from the revolution 1668 till 1760; and of the London Baptist Churches, during that period. United Kingdom: Ivimey, 1823. pp. 555-561. 
+
+[2]  It is interesting that the English Baptists didn't seem to take exception the Act of Toleration, while later American Baptists certainly did.   A dissenting minister could not teach until they had signed the required loyalty oaths, and signed a "Declaration of Approbation and Subscription" of most of the Anglican Church's Thirty-Nine Articles.  This involved going to chancery court, and formally signing a declaration, as well as paying a fee of not more than six pence.  It seems this resulted in some scrip that could be later checked by authorities. 
+
+There was some debate about whether the Act applied in the colonies, but Presbyterian Samuel Davies obtained an opinion from the English Attorney General concluding that the Act did apply.  So the underlying legal system for dissenters was similar in both places. 
+
+It seems the Americans especially chaffed against the practical implications, and the Anglican establishment was particularly vexing.  In Virginia, the Anglicans interpreted the only place of licensure to be in Williamsburg, twice a year. [Preaching before the long trip to Williamsburg was reason for denying future licenses](https://books.google.com/books?id=pO27K6rR0qoC&lpg=PA18&ots=hS5YOtnLKP&dq=act%20of%20toleration%20licensing%20ministers&pg=PA18#v=onepage&q=act%20of%20toleration%20licensing%20ministers&f=false). Ragosta at 18. The Virignia Courts apparently imposed a higher burden of proof, requiring examination by local Anglican clergy. And the Virginia establishment decided a minister could only be licensed to one meetinghouse.  This may not have been a problem in dense London, but it caused conflict with itinerant Presbyterians and Baptists on the Virginia frontier.   In the years leading up to the Revolution, and then through the Articles of Confederation, Seperatist Baptists were presecuted for refusing to license their meetings or their preaching.   
+
+https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1375&context=honorstheses
+http://www.ouramericanrevolution.org/index.cfm/page/view/p0209
+
+
+[5] Attorney General v. Bunce, 37 LJ Ch. 697

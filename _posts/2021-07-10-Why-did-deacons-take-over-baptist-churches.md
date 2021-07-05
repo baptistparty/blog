@@ -104,8 +104,5 @@ http://www.ouramericanrevolution.org/index.cfm/page/view/p0209
 
 
 [5] Attorney General v. Bunce, 37 LJ Ch. 697
-<<<<<<< HEAD
 
 [6]There are numerous cases involving seemingly incredible doctrinal transitions in dissenting chapels -- from Presbyterians hiring Baptist ministers, or slowly accepting Unitarians. How did this happen?  Well, English Courts generally decided that the *actions of the Trustees* were good evidence about the intention of the Trust, regardless of the actual faith of the congregation.
-=======
->>>>>>> e5f051dc4fa75a9f001166556e2733932b7187f8

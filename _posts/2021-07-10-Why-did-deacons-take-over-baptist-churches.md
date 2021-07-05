@@ -12,7 +12,9 @@ author: Jon
    
     But that leads to a question seldom asked: where did all the elders **go**? Why was the "a pastor and the deacons" combination nearly universal in Southern Baptist churches for over a century? 
     
-    In the Nine Marks of a Healthy Church, Mark Dever suggests [“inattention to Scripture” and “the pressure of life on the frontier” may have contributed to the decline of elder plurality.](https://www.9marks.org/review/elders-congregational-life-phil-newton/).  Those are both right, in a sense, but I think we're missing the most important part. 
+    In the Nine Marks of a Healthy Church, Mark Dever suggests [“inattention to Scripture” and “the pressure of life on the frontier” may have contributed to the decline of elder plurality.](https://www.9marks.org/review/elders-congregational-life-phil-newton/).  
+    
+    Those are both right, in a sense, but I think we're missing the most important part. 
 
     
     # Limits to the standard explanation
@@ -21,27 +23,27 @@ author: Jon
     
     So while any error is connected to inattention to scripture, it's still strange that there was never much of a fight between  "elderists" and  "deaconists."  No group called out the encroaching pragmatism and liberalism of the deaconists, and no deaconists claimed the primacy of orthopraxy before a watching world. If a plurality of elders is biblical and historic, how did the deaconists win without a fight? 
 
-    Was it furthered by "life on the frontier?"  Again, yes, in some sense. The shortage of ministers during the westward expansion meant many churches were irregular.  In my home state, Missouri, missionary pastors would ride circuit in the 19th Century, so that many Baptist churches held services only once or twice a month. The idea of a "cooperative" mission budget developed in Missouri when a glut of guest-preaching fundraisers for Baptist causes threatened to take most of the services in frontier churches.
+    Was it furthered by "life on the frontier?"  Again, yes, in some sense. The shortage of ministers during the westward expansion meant many churches were irregular.  In my home state, Missouri, missionary pastors arrived shortly after the Louisana Purchase, and would ride circuit. Many Baptist churches held services only once or twice a month. The idea of a "cooperative" mission budget developed in Missouri when a glut of guest-preaching fundraisers threatened to take over most of the preaching in frontier churches.
 
-    But even during the frontier and reconstruction, Baptists focused on regularity. They understood the goal was to have their own deacons and preacher, and to meet each Sabbath if not more often.  
+    But even on the frontier (and reconstruction) Baptists longed for regularity. They understood the goal was to have their own deacons and preacher, and to meet each Sabbath if not more often.  
 
-    So how did people attentive to scripture, and longing for New Testament polity, wind up with "deacon-led" polity? Like so many other things, you'd need to go back to the Glorious Revolution.
+    So how did people attentive to scripture, and longing for New Testament polity, wind up with a "deacon-led" polity? Like the answer to so many Baptist questions, you'll need to go back to the Glorious Revolution to find the answer.
 
 # Baptists Respond to Persecution, New Freedom in the 17th Century
 
     As you'll recall, after Henry the VIII broke with Rome, the Church of England viciously persecuted anyone that did not submit themselves to that Church.  Baptists believed the Bible took away the King's authority over religious matters, and refused to submit. And so they were persecuted, along with other groups of "nonconformists."        
 
-    The Baptists first found a friend in King James II, who had converted to Catholicism later in life. James' conversion was scandalous but tolerated, as his heir was a protestant daughter, and James was able to use his personal power to blunt persecution of nonconformists.  His "Declaration for Liberty of Conscience" was welcomed by many Baptists.  But then James fathered a Catholic son in 1688, threatening to create a Catholic dynasty, creating a crisis. Just a few weeks later, seven Protestant nobles sought out Prince William of Orange, a Dutch Calvinist who had married James' daughter Mary.  When William landed with a small army, James fled. 
+    In the late 17th Century, Baptists found a friend in King James II, who had converted to Catholicism later in life. James' conversion was scandalous but tolerated, as his heir was a protestant daughter.  He was able to use his personal power to blunt persecution of nonconformists, and his "Declaration for Liberty of Conscience" was welcomed by many Baptists.  But many Anglicans feared James was paving the way for a return to Catholicism. When James fathered a Catholic son in 1688, it threatened to create a Catholic dynasty, and the nation was plunged in crisis. A few weeks later, seven Protestant nobles begged Prince William of Orange to invade.  William, a Dutch Calvinist, had married James' daughter, Mary.  When William landed in England with a small army, James fled. 
 
-    This "Glorious Revolution" meant the English monarch would remain protestant, if not Anglican. But William and Mary also decided to reintegrate the nonconformist protestants.  In other words, they viewed the real danger to the Crown as Catholicism, with its foreign allegiances.  In one of their first acts, in 1689, the new monarchs assented to the "Act of Toleration," that allowed nonconformist protestants to maintain schoolteachers and "houses of worship.[1]"
+    This "Glorious Revolution" meant the English monarch would remain protestant. But William and Mary also saw no reason to force dissenting protestants into league with dissenting Catholics.  As they viewed Catholicism (and Catholic countries) as the real political danger, one of the first acts of the new monarchs was an "Act of Toleration." The Act allowed nonconforming protestants to have schoolteachers and houses of worship, on certain conditions. [1]
 
-    Now you'll understand why there was a veritable explosion of Baptist ideas and works in the late 17th Century.  First under James, and then under William and Mary, Baptists were finally allowed to write, publish, and gather together under the law.  And, of course, you can understand why the Second London Confession (dated 1689) took great pains to describe the relationshp between the King and his Baptist subjects.  In a few short years, Baptists laid down many of the practical and theological patterns that we still follow today. 
+    Now you'll understand why there was an explosion of Baptist works in the late 17th Century. Baptists were finally allowed to gather legally and write out their theology at length.  Much of the Second London Baptist Confession (dated 1689) responds to the political and legal questions around the new freedoms.[2]  So in the few years around the Glorious Revolution, Baptists laid down many of the patterns that we still follow today. 
 
 #  What did the Act of Toleration do? 
 
     So here it is important to understand what the Act of Toleration actually allowed.  While it was a great leap forward for religious liberty, it was nothing like the United States' First Amendment. The Act of Toleration imposed a long oath of support to the King and Queen, and required swearing off Catholic doctrines. It did not allow nonconformists to hold most public offices.  
 
-    In order to preach, nonconformist ministers still had to ascribe to thirty-six of the Church of England's thirty-nine articles, and register their place of preaching.  "Anabaptists" (and Baptists) could opt out of Article 27's paedobaptism.  Unlike their later, American counterparts, many early English Baptists seem to have agreed to take these oaths. (See Chapter 23 of the 2LBC allowing for oaths imposed by authority, in matters "ending all strife.") It is not clear that more than one preching minster could be registered to a particular place.   
+    And in order to preach, nonconformist ministers still had to affirm most of the Church of England's thirty-nine articles.  Nonconformist preachers had to register their place of preaching.  "Anabaptists" (and Baptists) could opt out of Article 27's paedobaptism.  Unlike their later, American counterparts, many early English Baptists seem to have agreed to take these oaths.[3]  
     
     And in order to meet, there was a separate requirement for the place of worship.  Each "congregation or assembly" was required to register a "place of meeting," with notice to the Bishop, local deacons, or the justices of the peace.
 
@@ -85,6 +87,11 @@ That's not to say churches were wrong for trying to follow the gospel under the 
 
 [1]  Why did William & Mary offer toleration?  The question of nonformists had split English political interests for a generation. James remained on the run, and a threat for several more months.  In order to solidify protestant power and alliances, William and Mary needed to retain moderate and radical nonconformists.  For more, see Scott Sowerby's remarkable reexamination of James II's legacy, [**Making Toleration: the Repealers and the Glorious Revolution**](https://www.hup.harvard.edu/catalog.php?isbn=9780674073098).  
 
+[2] Compare the Act's prohibition on disturbing Anglican services (at paragraph XV) (https://www.british-history.ac.uk/statutes-realm/vol6/pp74-76), with the 2LBC's Chapter 26, Paragraph 13, prohibiting the interruption of any church-order (which is similar to the Savoy Declaration on this point.)
+
+[3]   See, e.g., 1696 Oath Rolls for Baptist Ministers in London. http://discovery.nationalarchives.gov.uk/details/r/C4956164.  While taken from earlier confessions, by the time of Toleration, Chapter 23 of the 2LBC allowing for oaths imposed by authority, in matters "ending all strife."  So why did Americans chafe at essentially the same rules?  According to one author, the system was unworkable in Virginia, especially for the itenerant evangelists the sprang up in the Great Awakening.  The Court that granted licesnes was in Williiamsburg, met twice a year, and required a new license (and fee) for each location. https://encyclopediavirginia.org/entries/act-of-toleration-1689/.  Some early Virginia Baptists did comply; the conflict seemss 
+
+[3] Joseph Ivimey writes of an unfortunate incident at Prescot-street Baptist Chapel in 1752. James Fall, the son of a Baptist pastor in Watford, was invited by the deacons be pastor for six months.  At the end, a majority of the congregation voted to extend a call to Fall, but the deacon-trustees were opposed.  The deacons told the majority that could take and keep Fall, but not at the chapel.  And so began a new church at Little Alie Street.    Ivimey, Joseph. A History of the English Baptists: Comprising the principal events of the history of Protestant dissenterts, from the revolution 1668 till 1760; and of the London Baptist Churches, during that period. United Kingdom: Ivimey, 1823. pp. 555-561. 
 
 [2]  It is interesting that the English Baptists didn't seem to take exception the Act of Toleration, while later American Baptists certainly did.   A dissenting minister could not teach until they had signed the required loyalty oaths, and signed a "Declaration of Approbation and Subscription" of most of the Anglican Church's Thirty-Nine Articles.  This involved going to chancery court, and formally signing a declaration, as well as paying a fee of not more than six pence.  It seems this resulted in some scrip that could be later checked by authorities. 
 
@@ -95,8 +102,10 @@ It seems the Americans especially chaffed against the practical implications, an
 https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1375&context=honorstheses
 http://www.ouramericanrevolution.org/index.cfm/page/view/p0209
 
-[3] Joseph Ivimey writes of an unfortunate incident at Prescot-street Baptist Chapel in 1752. James Fall, the son of a Baptist pastor in Watford, was invited by the deacons be pastor for six months.  At the end, a majority of the congregation voted to extend a call to Fall, but the deacon-trustees were opposed.  The deacons told the majority that could take and keep Fall, but not at the chapel.  And so began a new church at Little Alie Street.    Ivimey, Joseph. A History of the English Baptists: Comprising the principal events of the history of Protestant dissenterts, from the revolution 1668 till 1760; and of the London Baptist Churches, during that period. United Kingdom: Ivimey, 1823. pp. 555-561. 
 
 [5] Attorney General v. Bunce, 37 LJ Ch. 697
+<<<<<<< HEAD
 
 [6]There are numerous cases involving seemingly incredible doctrinal transitions in dissenting chapels -- from Presbyterians hiring Baptist ministers, or slowly accepting Unitarians. How did this happen?  Well, English Courts generally decided that the *actions of the Trustees* were good evidence about the intention of the Trust, regardless of the actual faith of the congregation.
+=======
+>>>>>>> e5f051dc4fa75a9f001166556e2733932b7187f8

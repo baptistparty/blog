@@ -49,26 +49,36 @@ author: Jon
 
     But the Toleration Act did **not** provide a neat way to put ministers, house of worship, and congregation under the same umbrella. Dissenters were banned from public office, and corporations were considered a public office from the King.  So law did not recognize a "Baptist Church."  The law recognized individual people.  Some individuals were permitted to preach.  And other individuals could gather to hear a permitted preacher, but only at  registered location.
 
-    So some of the earliest Baptist meeting houses were actually houses.  An individual could register his home as a meeting place, and then arrange to have a minister preach.  Obviously, these property owners tended to be wealthier and older.  
+    So some of the earliest Baptist meeting houses were actually houses.  An individual could register his home as a meeting place, and then arrange to have a minister preach.  Obviously,property owners tended to be wealthier and older patrons.  
 
-    But what happens if the owner of the churchhouse dies?  Or leaves for another denomination? How could the property be secured to a particular church, if dissentrs could not form corporations?
+    But what happened if the owner of the churchhouse died?  Or left for another denomination? How could the property be secured to a particular church, if dissenters could not form corporations?
 
     The common legal workaround was the "trust." Ancient English law allowed land owners to devote property to a charitable public purpose, including religion.  The land might be "owned" by one or more individuals, but the English courts would force the owners to honor the purpose of the "trust."  You could leave property to a single trustee, but as the entire purpose was to avoid the hassle of a person's death, trusts typically have more than one trustee.  And to avoid ties, there are usually *three* trustees.
 
-    So congregations could only 'own' property by giving it to Trustees, for the purpose of a meetinghouse.  It should come as no surprise, then, that trustees were often the deacons. Deacons are charged with care of the physical ministries of the church, and it is only natural that care of the physical building be entrusted to deacon-trustees.  
+# Effects of a legal system that didn't recognize churches
+
+     It should come as no surprise, then, that trustees were often the deacons. Deacons are charged with care of the physical ministries of the church, and it is only natural that care of the physical property be entrusted to deacon-trustees. Even in those cases where the Deacons were not technically trustees, they oversaw the *use of the property.*    
     
-     But you'll alos see that, as the landowners, it was the trustees that legally allowed the congregation to gather on their land. And it was the land-owning trustees that allowed for any preacher to preach on their land.  Because the minister had to register his preaching location, it was impossible to register without the consent of the Trustees. And even if the congregation elected a new pastor, it was the trustee-deacons who would have to consent.[3] 
+     But you'll also see that, as the landowners, it was the trustees that legally allowed the congregation to gather on their land. And it was the land-owning trustees that allowed for any preacher. Because the minister had to register his preaching location, it was impossible to register without the consent of the Trustees. And even if the congregation elected a new pastor, it was the trustee-deacons who would have to consent.[3] 
 
-     This meant the law gave the Trust and the Trustees extraordinary control over church doctrine. In one town, a church dedicated to "Presbyterians" eventually had 151 Baptist members, to only 5 Presbyterians. [5]  In the 1800s, there were numerous battles over Presbyterian churches that drifted into Unitarianism. English Courts generally decided that the *actions of the Trustees* were good evidence about the intention of the Trust, regardless of the actual faith of the Congregation. 
-
-
+     In fact, it was often the Trustees that arranged for a preacher for their congregations.  At some points, real estate speculators were building chapels to rent to dissenters.
 
 
+# How the Trust deforms New Testament Polity. 
 
+    So how did this deform New Testament polity?  At its root, dissenting churches were separated from their property, and elders had to mediate some of their connection to a congregation through the property -- and its keepers.  This meant the law gave the Trust and the Trustees a direct legal relationship to doctrine.  This little assumption was reinforced by law and circumstances for generations, until the workaround became the tradition. 
 
+It might seem like churches would press to end these requirements. But the workaround was healthy enough to let churches be healthy enough.  In most congregations, elders, deacons, trustees and congregations aren't in conflict. If a church wanted a plurality of elders, it could have them.  
 
+So this legal workaround, a holdover of persecution of the dissenters, became the blueprint for roughly 300 years.  Even in the United States, it was an open question whether State governments **should** recognize a 'church' as a corporation with its own property.  Only in the early 20th century did "general" corporation statutes become widespread, where legal entities could form on general rules, without a special charter from the legislature.
+  
+But a church could only become only-so-healthy.  The Church's vision of itself became influenced by the law and culture. When disagareement or conflict did arrive, the law gave a little more weight to the property-keepers.[6] 
 
-     
+# Conclusion
+
+For a number of reasons, I think the English legal structure was the core reason for the growth of deacons.  When it was later combined with the "independent contractor" model of ministering after the Great Awakening, pragmatism built on pragmatism. 
+
+That's not to say churches were wrong for trying to follow the gospel under the culture and law available to them.  But at some point, the pragmatism became the tradition, and developed its own intertia. 
 
 
 [0] A [2010 review of Ben Merkle's 40 Questions about Elders and Deacons](https://www.9marks.org/review/40-questions-about-elders-and-deacons/) is described thus: "All elders are given the responsibility of ruling and teaching in the church ... and the deacons are to aid them in these pursuits by handling the details of the church." 
@@ -88,3 +98,5 @@ http://www.ouramericanrevolution.org/index.cfm/page/view/p0209
 [3] Joseph Ivimey writes of an unfortunate incident at Prescot-street Baptist Chapel in 1752. James Fall, the son of a Baptist pastor in Watford, was invited by the deacons be pastor for six months.  At the end, a majority of the congregation voted to extend a call to Fall, but the deacon-trustees were opposed.  The deacons told the majority that could take and keep Fall, but not at the chapel.  And so began a new church at Little Alie Street.    Ivimey, Joseph. A History of the English Baptists: Comprising the principal events of the history of Protestant dissenterts, from the revolution 1668 till 1760; and of the London Baptist Churches, during that period. United Kingdom: Ivimey, 1823. pp. 555-561. 
 
 [5] Attorney General v. Bunce, 37 LJ Ch. 697
+
+[6]There are numerous cases involving seemingly incredible doctrinal transitions in dissenting chapels -- from Presbyterians hiring Baptist ministers, or slowly accepting Unitarians. How did this happen?  Well, English Courts generally decided that the *actions of the Trustees* were good evidence about the intention of the Trust, regardless of the actual faith of the congregation.

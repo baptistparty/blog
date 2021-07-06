@@ -17,8 +17,8 @@ author: Jon
     Those are both right, in a sense, but I think we're missing the most important part. 
 
     
-    # Limits to the standard explanation
-    
+# Limits to the standard explanation
+  
     Were American Baptists 'inattentive to scripture'?  In some sense, all sin is a failure to heed God's commands in scripture.  But if there's a "Baptist" trait, it's persnickitiness about the scripture on churches.  Having rejected Popes, bishops, synods, presbyters, sessions, and state churches, Baptists insist they want church **as the Bible commands,** no more, and no less.  The 19th and 20th centuries had no shortage of literalists and Fundamentalists willing to call out deviations. There were hardshells and landmarkers, anti-missionary baptists, anti-missionary society baptists, anti-Sunday school baptists. The Baptist committement to following scripture and individual conscience is so high, they appear schismatic to many outsiders.    
     
     So while any error is connected to inattention to scripture, it's still strange that there was never much of a fight between  "elderists" and  "deaconists."  No group called out the encroaching pragmatism and liberalism of the deaconists, and no deaconists claimed the primacy of orthopraxy before a watching world. If a plurality of elders is biblical and historic, how did the deaconists win without a fight? 

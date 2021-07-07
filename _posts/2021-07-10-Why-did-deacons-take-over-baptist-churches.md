@@ -15,8 +15,7 @@ author: Jon
     
     Those are both right, in a sense, but I think we're missing the most important part. 
 
-    
-# Problems with the 'standard' explanation
+## Problems with the 'standard' explanation
   
     Were American Baptists 'inattentive to scripture'?  In some sense, all sin is a failure to heed God's commands in scripture.  But if there's a "Baptist" trait, it's persnickitiness about the scripture on churches.  Having rejected Popes, bishops, synods, presbyters, sessions, and state churches, Baptists insist they want church **as the Bible commands,** no more, and no less.  The 19th and 20th centuries had no shortage of literalists and Fundamentalists willing to call out deviations.  There were hard-shells and landmarkers, anti-missionary Baptists, anti-missionary society Baptists, anti-Sunday school Baptists.  The Baptist commitment to following scripture and individual conscience is so high, they appear schismatic to many outsiders.    
     
@@ -28,7 +27,7 @@ author: Jon
 
     So how did people attentive to scripture, and longing for New Testament polity, wind up with a "deacon-led" polity? Like the answer to so many Baptist questions, you'll need to go back to the Glorious Revolution to find the answer.
 
-# Persecuted Baptists Find New Freedom in the 17th Century
+## Persecuted Baptists Find New Freedom in the 17th Century
 
     As you'll recall, after Henry the VIII broke with Rome, the Church of England viciously persecuted anyone that did not submit themselves to that Church.  Baptists believed the Bible took away the King's authority over religious matters and refused to submit. And so, the Crown persecuted them, along with other groups of "nonconformists."        
 
@@ -38,7 +37,7 @@ author: Jon
 
     Now you'll understand why there was an explosion of Baptist works in the late 17th Century. Baptists were finally allowed to gather legally and write out their theology at length.  Much of the Second London Baptist Confession (dated 1689) responds to the political and legal questions around the new freedoms.[2] So in the few years around the Glorious Revolution, Baptists laid down many patterns that we still follow today. 
 
-#  The Act of Toleration 
+## The Act of Toleration
 
     So here it is important to understand what the Act of Toleration allowed.  While it was a great leap forward for religious liberty, it was nothing like the United States' First Amendment. The Act of Toleration imposed a long oath of support to the King and Queen and required swearing off Catholic doctrines. It did not allow nonconformists to hold most public offices.  
 
@@ -46,7 +45,7 @@ author: Jon
     
     And to meet, there was a separate requirement for the place of worship.  Each "congregation or assembly" had to register a "place of meeting," with notice to the bishop, local deacons, or the justices of the peace.
 
-# Limits to Toleration and Workarounds
+## Limits to Toleration and Workarounds
 
     But the Toleration Act did **not** provide a neat way to put ministers, house of worship, and congregation under the same umbrella. Dissenters were banned from public office, and corporations were considered a public office from the King.  So, law did not recognize a "Baptist Church."   The law recognized individual people.  Some individuals could preach.  And other individuals could associate to hear a permitted preacher, but only at registered location.
 
@@ -60,9 +59,13 @@ author: Jon
 
     For many churches in England, their "Trust Deed" became their most important governing documents.  Just as it sounds, the Trust Deed dedicates the property to religious uses.  Typically, the Trust Deed will name initial trustees, and a method of selecting new trustees. 
     
-    It should come as no surprise, then, that trustees were often the deacons. Deacons are charged with care of the physical ministry of the church.  So many churches combined the legal and spiritual responsibilities.  Even where deacons were not technically trustees, they generally oversee the *use of the property. * 
+    It should come as no surprise, then, that trustees were often the deacons. Deacons are charged with care of the physical ministry of the church.  So many churches combined the legal and spiritual responsibilities.  Even where deacons were not technically trustees, they generally oversee the *use of the property.* 
+    
+    But you'll also see that, as the landowners, it was the trustees that legally allowed the congregation to gather on their land. And it was the land-owning trustees that allowed for any preacher. Because the minister had to register his preaching location, it was impossible to register without the consent of the Trustees. And even if the congregation elected a new pastor, it was the trustee-deacons who would have to consent.[3] 
 
-# Examples from Spurgeon
+    In fact, it was often the Trustees that arranged for a preacher for their congregations.  At some points, real estate speculators were building chapels to rent to dissenters.
+
+## Examples from Spurgeon
 
     You can see this system at work in Charles Spurgeon's autobiography.  
 
@@ -76,13 +79,7 @@ author: Jon
 
     Earlier, Spurgeon wrote about his predecessor, Dr. John Rippon's dealings with his deacons.  The deacons had been reluctant to spend money on a new almshouse, despite Rippon's encouragement; they said the expense would be too great and the money impossible to raise.  Rippon went out and raised the funds himself and made sure the Trust Deed to the property allowed the pastor to select beneficiaries "no deacons interfering." 337. 
 
-        
-    But you'll also see that, as the landowners, it was the trustees that legally allowed the congregation to gather on their land. And it was the land-owning trustees that allowed for any preacher. Because the minister had to register his preaching location, it was impossible to register without the consent of the Trustees. And even if the congregation elected a new pastor, it was the trustee-deacons who would have to consent.[3] 
-
-    In fact, it was often the Trustees that arranged for a preacher for their congregations.  At some points, real estate speculators were building chapels to rent to dissenters.
-
-
-# How the Act deformed New Testament polity. 
+## How the Act deformed New Testament polity
 
 So how did this deform New Testament polity?  At its root, dissenting churches were separated from their property, and elders had to mediate some of their connection to a congregation through the property -- and its keepers.  This meant the law gave the Trust and the Trustees a direct legal relationship to doctrine.  This little assumption was reinforced by law and circumstances for generations, until the workaround became the tradition. 
 
@@ -92,32 +89,30 @@ So, this legal workaround, a holdover of persecution of the dissenters, became t
   
 But a church could only become only-so-healthy.  The Church's vision of itself became influenced by the law and culture. When disagreement or conflict did arrive, the law gave a little more weight to the property-keepers.[6] 
 
-# Conclusion
+## Conclusion
 
 For several reasons, I think the English legal structure was the core reason for the growth of deacons.  When it was later combined with the "independent contractor" model of ministering after the Great Awakening, pragmatism built on pragmatism. 
 
-That's not to say churches were wrong for trying to follow the gospel under the culture and law available to them.  But at some point, the pragmatism became the tradition, and developed its own inertia. 
-
+That's not to say churches were wrong for trying to follow the gospel under the culture and law available to them.  But at some point, the pragmatism became the tradition, and developed its own inertia.
 
 [0] A [2010 review of Ben Merkle's 40 Questions about Elders and Deacons](https://www.9marks.org/review/40-questions-about-elders-and-deacons/) is described thus: "All elders are given the responsibility of ruling and teaching in the church ... and the deacons are to aid them in these pursuits by handling the details of the church." 
 
 [1]  Why did William & Mary offer toleration?  The question of nonconformists had split English political interests for a generation. James remained on the run, and a threat for several more months.  To solidify protestant power and alliances, William and Mary needed to retain moderate and radical nonconformists.  For more, see Scott Sowerby's remarkable reexamination of James II's legacy, [**Making Toleration: the Repealers and the Glorious Revolution**](https://www.hup.harvard.edu/catalog.php?isbn=9780674073098).  
 
-[2] Compare the Act's prohibition on disturbing Anglican services (at paragraph XV) (https://www.british-history.ac.uk/statutes-realm/vol6/pp74-76), with the 2LBC's Chapter 26, Paragraph 13, prohibiting the interruption of any church-order (which is like the Savoy Declaration on this point.)
+[2] Compare the Act's prohibition on disturbing Anglican services (at paragraph XV) (<https://www.british-history.ac.uk/statutes-realm/vol6/pp74-76>), with the 2LBC's Chapter 26, Paragraph 13, prohibiting the interruption of any church-order (which is like the Savoy Declaration on this point.)
 
-[3]   See, e.g., 1696 Oath Rolls for Baptist Ministers in London. http://discovery.nationalarchives.gov.uk/details/r/C4956164.  While taken from earlier confessions, by Toleration, Chapter 23 of the 2LBC allowing for oaths imposed by authority, in matters "ending all strife."  So why did Americans chafe at essentially the same rules?  According to one author, the system was unworkable in Virginia, especially for the itinerant evangelists the sprang up in the Great Awakening.  The Court that granted licenses was in Williamsburg, met twice a year, and required a new license (and fee) for each location. https://encyclopediavirginia.org/entries/act-of-toleration-1689/.  
+[3]   See, e.g., 1696 Oath Rolls for Baptist Ministers in London. <http://discovery.nationalarchives.gov.uk/details/r/C4956164>.  While taken from earlier confessions, by Toleration, Chapter 23 of the 2LBC allowing for oaths imposed by authority, in matters "ending all strife."  So why did Americans chafe at essentially the same rules?  According to one author, the system was unworkable in Virginia, especially for the itinerant evangelists the sprang up in the Great Awakening.  The Court that granted licenses was in Williamsburg, met twice a year, and required a new license (and fee) for each location. <https://encyclopediavirginia.org/entries/act-of-toleration-1689/>.  
 
 [3] Joseph Ivimey writes of an unfortunate incident at Prescot-street Baptist Chapel in 1752. James Fall, the son of a Baptist pastor in Watford, was invited by the deacons be pastor for six months.  At the end, most of the congregation voted to extend a call to Fall, but the deacon-trustees were opposed.  The deacons told the majority that could take and keep Fall, but not at the chapel.  And so began a new church at Little Alie Street.    Ivimey, Joseph. A History of the English Baptists: Comprising the main events of the history of Protestant dissenters, from the revolution 1668 till 1760; and of the London Baptist Churches, during that period. United Kingdom: Ivimey, 1823. pp. 555-561. 
 
-[2]  It is interesting that the English Baptists didn't seem to take exception the Act of Toleration, while later American Baptists did.   A dissenting minister could not teach until they had signed the required loyalty oaths and signed a "Declaration of Approbation and Subscription" of most of the Anglican Church's Thirty-Nine Articles.  This involved going to chancery court, and formally signing a declaration, as well as paying a fee of not more than six pence.  It seems this led to some scrip that could be later checked by authorities. 
+[2]  It is interesting that the English Baptists didn't seem to take exception the Act of Toleration, while later American Baptists did.   A dissenting minister could not teach until they had signed the required loyalty oaths and signed a "Declaration of Approbation and Subscription" of most of the Anglican Church's Thirty-Nine Articles.  This involved going to chancery court, and formally signing a declaration, as well as paying a fee of not more than six pence.  It seems this led to some scrip that could be later checked by authorities.
 
 There was some debate about whether the Act applied in the colonies, but Presbyterian Samuel Davies obtained an opinion from the English Attorney General concluding that the Act did apply.  So, the legal system for dissenters was similar in both places. 
 
 It seems the Americans especially chaffed against the practical implications, and the Anglican establishment was particularly vexing.  In Virginia, the Anglicans interpreted the only place of licensure to be in Williamsburg, twice a year. [Preaching before the long trip to Williamsburg was reason for denying future licenses](https://books.google.com/books?id=pO27K6rR0qoC&lpg=PA18&ots=hS5YOtnLKP&dq=act%20of%20toleration%20licensing%20ministers&pg=PA18#v=onepage&q=act%20of%20toleration%20licensing%20ministers&f=false). Ragosta at 18. The Virginia Courts apparently imposed a higher burden of proof, requiring examination by local Anglican clergy. And the Virginia establishment decided a minister could be licensed only to one meetinghouse.  This may not have been a problem in dense London, but it caused conflict with itinerant Presbyterians and Baptists on the Virginia frontier.   In the years preceding the Revolution, and then through the Articles of Confederation, Separatist Baptists were persecuted for refusing to license their meetings or their preaching.   
 
-https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1375&context=honorstheses
-http://www.ouramericanrevolution.org/index.cfm/page/view/p0209
-
+<https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1375&context=honorstheses>
+<http://www.ouramericanrevolution.org/index.cfm/page/view/p0209>
 
 [5] Attorney Gen. v. Bunce, 37 LJ Ch. 697
 

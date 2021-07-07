@@ -17,7 +17,7 @@ author: Jon
     Those are both right, in a sense, but I think we're missing the most important part. 
 
     
-# Limits to the standard explanation
+# Problems with the 'standard' explanation
   
     Were American Baptists 'inattentive to scripture'?  In some sense, all sin is a failure to heed God's commands in scripture.  But if there's a "Baptist" trait, it's persnickitiness about the scripture on churches.  Having rejected Popes, bishops, synods, presbyters, sessions, and state churches, Baptists insist they want church **as the Bible commands,** no more, and no less.  The 19th and 20th centuries had no shortage of literalists and Fundamentalists willing to call out deviations. There were hardshells and landmarkers, anti-missionary baptists, anti-missionary society baptists, anti-Sunday school baptists. The Baptist committement to following scripture and individual conscience is so high, they appear schismatic to many outsiders.    
     
@@ -29,7 +29,7 @@ author: Jon
 
     So how did people attentive to scripture, and longing for New Testament polity, wind up with a "deacon-led" polity? Like the answer to so many Baptist questions, you'll need to go back to the Glorious Revolution to find the answer.
 
-# Baptists Respond to Persecution, New Freedom in the 17th Century
+# Persecuted Baptists Find New Freedom in the 17th Century
 
     As you'll recall, after Henry the VIII broke with Rome, the Church of England viciously persecuted anyone that did not submit themselves to that Church.  Baptists believed the Bible took away the King's authority over religious matters, and refused to submit. And so they were persecuted, along with other groups of "nonconformists."        
 
@@ -39,7 +39,7 @@ author: Jon
 
     Now you'll understand why there was an explosion of Baptist works in the late 17th Century. Baptists were finally allowed to gather legally and write out their theology at length.  Much of the Second London Baptist Confession (dated 1689) responds to the political and legal questions around the new freedoms.[2]  So in the few years around the Glorious Revolution, Baptists laid down many of the patterns that we still follow today. 
 
-#  What did the Act of Toleration do? 
+#  The Act of Toleration 
 
     So here it is important to understand what the Act of Toleration actually allowed.  While it was a great leap forward for religious liberty, it was nothing like the United States' First Amendment. The Act of Toleration imposed a long oath of support to the King and Queen, and required swearing off Catholic doctrines. It did not allow nonconformists to hold most public offices.  
 
@@ -47,28 +47,45 @@ author: Jon
     
     And in order to meet, there was a separate requirement for the place of worship.  Each "congregation or assembly" was required to register a "place of meeting," with notice to the Bishop, local deacons, or the justices of the peace.
 
-# Limits of the Act of Toleration, and Dissenters' Workarounds
+# Limits to Toleration and Workarounds
 
-    But the Toleration Act did **not** provide a neat way to put ministers, house of worship, and congregation under the same umbrella. Dissenters were banned from public office, and corporations were considered a public office from the King.  So law did not recognize a "Baptist Church."  The law recognized individual people.  Some individuals were permitted to preach.  And other individuals could gather to hear a permitted preacher, but only at  registered location.
+    But the Toleration Act did **not** provide a neat way to put ministers, house of worship, and congregation under the same umbrella. Dissenters were banned from public office, and corporations were considered a public office from the King.  So law did not recognize a "Baptist Church."   The law recognized individual people.  Some individuals were permitted to preach.  And other individuals could associate to hear a permitted preacher, but only at registered location.
 
-    So some of the earliest Baptist meeting houses were actually houses.  An individual could register his home as a meeting place, and then arrange to have a minister preach.  Obviously,property owners tended to be wealthier and older patrons.  
+    This is an easy enough problem to solve, if someone owns a house.  After the Toleration Act, many Baptist churches met in houses, cottages, or barns.  A sympathetic individual could register his home as a meeting place, and then arrange to have a minister preach.  Obviously, these property owners tended to be wealthier and older patrons.  
 
-    But what happened if the owner of the churchhouse died?  Or left for another denomination? How could the property be secured to a particular church, if dissenters could not form corporations?
+    But what happened if the owner of the churchhouse died?  Or left for another denomination? How could property be secured to a particular church, if dissenters could not form corporations?
 
-    The common legal workaround was the "trust." Ancient English law allowed land owners to devote property to a charitable public purpose, including religion.  The land might be "owned" by one or more individuals, but the English courts would force the owners to honor the purpose of the "trust."  You could leave property to a single trustee, but as the entire purpose was to avoid the hassle of a person's death, trusts typically have more than one trustee.  And to avoid ties, there are usually *three* trustees.
-
-# Effects of a legal system that didn't recognize churches
-
-     It should come as no surprise, then, that trustees were often the deacons. Deacons are charged with care of the physical ministries of the church, and it is only natural that care of the physical property be entrusted to deacon-trustees. Even in those cases where the Deacons were not technically trustees, they oversaw the *use of the property.*    
+    The law didn't allow direct solutions, so dissenters had to deal with these problems the best they could.  
     
-     But you'll also see that, as the landowners, it was the trustees that legally allowed the congregation to gather on their land. And it was the land-owning trustees that allowed for any preacher. Because the minister had to register his preaching location, it was impossible to register without the consent of the Trustees. And even if the congregation elected a new pastor, it was the trustee-deacons who would have to consent.[3] 
+    The common legal workaround was a "trust." Ancient English law allowed land owners to devote their property to a charitable public purpose, including religion.  The land might be "owned" by one or more individuals, but the English courts would force the owners to honor the purpose of the "trust."  You could leave property to a single trustee, but as the entire purpose was to avoid the hassle of a person's death, trusts typically have more than one trustee.  And to avoid ties, there are usually *three* trustees.
 
-     In fact, it was often the Trustees that arranged for a preacher for their congregations.  At some points, real estate speculators were building chapels to rent to dissenters.
+    For many churches in England, their "Trust Deed" became their most important governing documents.  Just as it sounds, the Trust Deed dedicates the property to religious uses.  Typically, the Trust Deed will name initial trustees, and a method of selecting new trustees. 
+    
+    It should come as no surprise, then, that trustees were often the deacons. Deacons are charged with care of the physical ministry of the church.  So many churches combined the legal and spiritual responsibilities.  Even where deacons were not technically trustees, they generally oversee the *use of the property.* 
+
+# Examples from Spurgeon
+
+    You can see this system at work in Charles Spurgeon's autobiography.  
+
+    Spurgeon's invitation to preach at New Park Street came from a "London deacon." He corresponded with the deacon, and the deacon arranged a boarding house, in Queen's Square, Bloomsbury.  After the sermon, the presiding deacon immediately offered Spurgeon a six-month engagement, confident that the congregation would back him at the next business meeting. (370).  The resolution that passed instructed the deacons to communicate the offer and "make the necessary arrangements" for compensation. 
 
 
-# How the Trust deforms New Testament Polity. 
+    At the end of Chapter 32, Spurgeon said the crowds at his London pastorate were growing, and he wanted a bigger building.  But he had to convince his deacons, and he did so through preaching: 
+    >“By faith, the walls of Jericho fell down; and by faith, this wall at the back shall come down, too.” An aged and prudent deacon, in somewhat domineering terms, observed to me, at the close of the sermon, “Let us never hear of that again.” “What do you mean?” I inquired; “you will hear no more about it when it is done, and therefore the sooner you set about doing it, the better.”
 
-    So how did this deform New Testament polity?  At its root, dissenting churches were separated from their property, and elders had to mediate some of their connection to a congregation through the property -- and its keepers.  This meant the law gave the Trust and the Trustees a direct legal relationship to doctrine.  This little assumption was reinforced by law and circumstances for generations, until the workaround became the tradition. 
+    Spurgeon convinced the church, which asked the Deacons to construct an addition.  But then Spurgeon says legal problems caused a delay; the properties involved were on different Trusts, and the "Charities Commission" had to get involved. 
+
+    Earlier, Spurgeon wrote about his predecessor, Dr. John Rippon's dealings with his deacons.  The deacons had been reluctant to spend money on a new almshouse, despite Rippon's encouragement; they said the expense would be too great and the money impossible to raise.  Rippon went out and raised the funds himself, and made sure the Trust Deed to the property allowed the pastor to select beneficiaries "no deacons interfering." 337. 
+
+        
+    But you'll also see that, as the landowners, it was the trustees that legally allowed the congregation to gather on their land. And it was the land-owning trustees that allowed for any preacher. Because the minister had to register his preaching location, it was impossible to register without the consent of the Trustees. And even if the congregation elected a new pastor, it was the trustee-deacons who would have to consent.[3] 
+
+    In fact, it was often the Trustees that arranged for a preacher for their congregations.  At some points, real estate speculators were building chapels to rent to dissenters.
+
+
+# How the Act deformed New Testament polity. 
+
+So how did this deform New Testament polity?  At its root, dissenting churches were separated from their property, and elders had to mediate some of their connection to a congregation through the property -- and its keepers.  This meant the law gave the Trust and the Trustees a direct legal relationship to doctrine.  This little assumption was reinforced by law and circumstances for generations, until the workaround became the tradition. 
 
 It might seem like churches would press to end these requirements. But the workaround was healthy enough to let churches be healthy enough.  In most congregations, elders, deacons, trustees and congregations aren't in conflict. If a church wanted a plurality of elders, it could have them.  
 

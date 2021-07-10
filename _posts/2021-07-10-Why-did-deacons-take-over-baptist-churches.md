@@ -88,7 +88,7 @@ It might seem like churches would press to end these requirements. But the worka
 
 So, this legal workaround, a holdover of persecution of the dissenters, became the blueprint for roughly 300 years.  Even in the United States, it was an open question whether State governments **should** recognize a 'church' as a corporation with its own property.  Only in the early 20th century did "general" corporation statutes become widespread, where legal entities could form on general rules, without a special charter from the legislature.
   
-But a church could only become only-so-healthy.  The Church's vision of itself became influenced by the law and culture. When disagreement or conflict did arrive, the law gave a little more weight to the property-keepers.[^6] 
+But while so much of what we thinkg of Baptist and Evangelical life flourished under the Toleration scheme, a church could  become only-*so*-healthy.  The Church's vision of itself became influenced by the law and culture. When disagreement or conflict did arrive, the law gave a little more weight to the property-keepers.[^6] 
 
 ## Conclusion
 

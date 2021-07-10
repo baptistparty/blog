@@ -37,7 +37,7 @@ This "Glorious Revolution" meant the English monarch would remain protestant. Bu
 
 Now you'll understand why there was an explosion of Baptist works in the late 17th Century. Baptists were finally allowed to gather legally and write out their theology at length.  Much of the Second London Baptist Confession (dated 1689) responds to the political and legal questions around the new freedoms.[2] So in the few years around the Glorious Revolution, Baptists laid down many patterns that we still follow today. 
 
-## The Act of Toleration
+## The Tolerable Acts
 
 So here it is important to understand what the Act of Toleration allowed.  While it was a great leap forward for religious liberty, it was nothing like the United States' First Amendment. The Act of Toleration imposed a long oath of support to the King and Queen and required swearing off Catholic doctrines. It did not allow nonconformists to hold most public offices.  
 
@@ -67,12 +67,13 @@ In fact, it was often the Trustees that arranged for a preacher for their congre
 
 ## Examples from Spurgeon
 
-You can see this system at work in Charles Spurgeon's autobiography.  
+You can see this system still at work in Charles Spurgeon's autobiography, a century and a half later.  
 
 Spurgeon's invitation to preach at New Park Street came from a "London deacon." He corresponded with the deacon, and the deacon arranged a boarding house, in Queen's Square, Bloomsbury.  After the sermon, the presiding deacon immediately offered Spurgeon a six-month engagement, confident that the congregation would back him at the next business meeting. (370).  The resolution that passed instructed the deacons to communicate the offer and "make the necessary arrangements" for compensation. 
 
 
 At the end of Chapter 32, Spurgeon said the crowds at his London pastorate were growing, and he wanted a bigger building.  But he had to convince his deacons, and he did so through preaching: 
+
 > “By faith, the walls of Jericho fell down; and by faith, this wall at the back shall come down, too.” An aged and prudent deacon, in somewhat domineering terms, observed to me, at the close of the sermon, “Let us never hear of that again.” “What do you mean?” I inquired; “you will hear no more about it when it is done, and therefore the sooner you set about doing it, the better.”
 
 Spurgeon convinced the church, which asked the Deacons to construct an addition.  But then Spurgeon says legal problems caused a delay; the properties involved were on different Trusts, and the "Charities Commission" had to get involved. 

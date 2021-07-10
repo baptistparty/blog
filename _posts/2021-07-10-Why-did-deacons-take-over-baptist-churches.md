@@ -91,10 +91,17 @@ But a church could only become only-so-healthy.  The Church's vision of itself b
 
 ## Conclusion
 
-For several reasons, I think the English legal structure was the core reason for the growth of deacons.  When it was later combined with the "independent contractor" model of ministering after the Great Awakening, pragmatism built on pragmatism. 
+For several reasons, I think the English "toleration" structure was a primary reason for pragmatic role deacons.  When it was later combined with the "independent contractor" model of ministering after the Great Awakening, pragmatism built on pragmatism. 
 
-That's not to say churches were wrong for trying to follow the gospel under the culture and law available to them.  But at some point, the pragmatism became the tradition, and developed its own inertia.
+But it's important to note, it *wasn't deacons usurping power.* If anything, it was the *elder* office that was more deformed by Toleration. And it would be an equal error to now deform the New Testament Deacon role into "table servants," and not "the money counters / bankers." The initial interaction between Spurgeon and his deacons may have represented a good example of what the relationship should looks like. 
 
+And that's also not to say churches were wrong for trying to follow the gospel under the culture and law available to them.  But at some point, the pragmatism became the tradition, and developed its own inertia.
+
+
+
+
+
+---
 [0] A [2010 review of Ben Merkle's 40 Questions about Elders and Deacons](https://www.9marks.org/review/40-questions-about-elders-and-deacons/) is described thus: "All elders are given the responsibility of ruling and teaching in the church ... and the deacons are to aid them in these pursuits by handling the details of the church." 
 
 [1]  Why did William & Mary offer toleration?  The question of nonconformists had split English political interests for a generation. James remained on the run, and a threat for several more months.  To solidify protestant power and alliances, William and Mary needed to retain moderate and radical nonconformists.  For more, see Scott Sowerby's remarkable reexamination of James II's legacy, [**Making Toleration: the Repealers and the Glorious Revolution**](https://www.hup.harvard.edu/catalog.php?isbn=9780674073098).  

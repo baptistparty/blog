@@ -13,9 +13,9 @@ But that leads to a question seldom asked: where did all the elders **go**? Why 
 
 In the Nine Marks of a Healthy Church, Mark Dever suggests [“inattention to Scripture” and “the pressure of life on the frontier” may have contributed to the decline of elder plurality.](https://www.9marks.org/review/elders-congregational-life-phil-newton/).
 
-Those are both right, in a sense, but I think we're still missing the most important part: the laws around church formation. 
+Those are both right, in a sense, but I think we're still missing the larger part: the laws around church formation. 
 
-## Problems with the 'standard' explanation
+## Questions about the 'standard' explanation
   
 Were American Baptists 'inattentive to scripture'?  In some sense, all sin is a failure to heed God's commands in scripture.  But if there's a "Baptist" trait, it's persnickitiness about the scripture on churches.  Having rejected Popes, cardinals, synods, presbyters, sessions, and state churches, at least some Baptists are always insisting they want church **as the Bible commands,** no more, and no less.  The 19th and 20th centuries had no shortage of literalists and Fundamentalists willing to call out deviations.  There were hard-shells and landmarkers, anti-missionary Baptists, anti-missionary society Baptists, anti-Sunday school Baptists. Dever's introduction to [**Polity**](https://www.9marks.org/wp-content/uploads/2015/07/Polity.pdf) describes the serious 19th Century conflict over indoor baptisms versus outdoor baptisms.  The Baptist commitment to following scripture and individual conscience is so high, they appear needlessly schismatic to many outsiders.    
 

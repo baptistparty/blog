@@ -13,7 +13,7 @@ But that leads me to a question seldom asked: where did all the elders **go**? W
 
 In the Nine Marks of a Healthy Church, Mark Dever suggests [“inattention to Scripture” and “the pressure of life on the frontier” may have contributed to the decline of elder plurality.](https://www.9marks.org/review/elders-congregational-life-phil-newton/).
 
-Those are both right, in a sense, but I think we're still missing the largest force behind the deformation: the laws around church formation.
+Those are both right, in a sense, but I think we're still missing the largest force pulling our polity out of line: the laws around church formation.
 
 ## Questions about the 'standard' explanation
   
@@ -112,12 +112,11 @@ What subtle deformations of the offices of elder, deacon, and member are present
 [^5]: All facts come from Spurgeon's Autobiography.   Circa p. 370. 
 
 [^6]:  It is, again, interesting that the English Baptists didn't seem to take exception the Act of Toleration, while later American Baptists did.   A dissenting minister could not teach until they had signed the required loyalty oaths and signed a "Declaration of Approbation and Subscription" of most of the Anglican Church's Thirty-Nine Articles.  This involved going to chancery court, and formally signing a declaration, as well as paying a fee of not more than six pence.  It seems this led to some scrip that could be later checked by authorities.
-There was some debate about whether the Act applied in the colonies, but Presbyterian Samuel Davies obtained an opinion from the English Attorney General concluding that the Act did apply.  So, the legal system for dissenters was similar in both places. 
-    It seems the Americans especially chaffed against the practical implications, and the Anglican establishment was particularly vexing.  In Virginia, the Anglicans interpreted the only place of licensure to be in Williamsburg, twice a year. [Preaching before the long trip to Williamsburg was reason for denying future licenses](https://books.google.com/books?id=pO27K6rR0qoC&lpg=PA18&ots=hS5YOtnLKP&dq=act%20of%20toleration%20licensing%20ministers&pg=PA18#v=onepage&q=act%20of%20toleration%20licensing%20ministers&f=false). Ragosta at 18. The Virginia Courts apparently imposed a higher burden of proof, requiring examination by local Anglican clergy. And the Virginia establishment decided a minister could be licensed only to one meetinghouse.  This may not have been a problem in dense London, but it caused conflict with itinerant Presbyterians and Baptists on the Virginia frontier.   
     
-    In the years preceding the Revolution, and then through the Articles of Confederation, Separate Baptists were persecuted for refusing to license their meetings or their preaching.   
+    There was some debate about whether the Act applied in the colonies, but Presbyterian Samuel Davies obtained an opinion from the English Attorney General concluding that the Act did apply.  So, the legal system for dissenters was similar in both places. 
+    
+    It seems the Americans especially chaffed against the practical implications, and the Anglican establishment was particularly vexing.  In Virginia, the Anglicans interpreted the only place of licensure to be in Williamsburg, twice a year. [Preaching before the long trip to Williamsburg was reason for denying future licenses](https://books.google.com/books?id=pO27K6rR0qoC&lpg=PA18&ots=hS5YOtnLKP&dq=act%20of%20toleration%20licensing%20ministers&pg=PA18#v=onepage&q=act%20of%20toleration%20licensing%20ministers&f=false). Ragosta at 18. The Virginia Courts apparently imposed a higher burden of proof, requiring examination by local Anglican clergy. And the Virginia establishment decided a minister could be licensed only to one meetinghouse.  This may not have been a problem in dense London, but it caused conflict with itinerant Presbyterians and Baptists on the Virginia frontier.   
 
-  Related: <https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1375&context=honorstheses>
-<http://www.ouramericanrevolution.org/index.cfm/page/view/p0209>
+    In the years preceding the Revolution, and then through the Articles of Confederation, Separate Baptists were persecuted for refusing to license their meetings or their preaching.   
 
 [^7]: There are many cases involving seemingly incredible doctrinal transitions in dissenting chapels -- for example, Presbyterian churches hiring Baptist ministers, or slowly accepting Unitarians. How did this happen?  Well, English Courts generally decided that the *actions of the Trustees* were good evidence about the intention of the Trust, regardless of the actual faith of the congregation. See, for example, Attorney Gen. v. Bunce, 37 LJ Ch. 697.  So, once again, the position of the Trustee ended up legally elevated.

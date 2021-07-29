@@ -13,26 +13,24 @@ No, not a Matthew 18:15 crisis, about how to deal with sin in the church.  A Mat
 In Matthew 18:18, Jesus leaves the Church with some authority. In between the already and the not yet, He says: 
 > Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
 
-That's some truly awesome **ad interim**[^1] authority; it's the church's 'in between' authority. And it sounds enormous. Elsewhere, Jesus said something similar to Peter, giving him the "Keys to the Kingdom of Heaven."   **Whatever you bind on earth? Whatever you loose on earth?**  That's sounds like the claimed authority of cardinals, mitres, and pontiffs.
+That's some truly awesome **ad interim**[^1] authority; it's the church's 'in between' authority. And it sounds enormous. Elsewhere, Jesus said something similar to Peter, giving him the "Keys to the Kingdom of Heaven."   **Whatever you bind on earth? Whatever you loose on earth?**  That sounds like the authority of cardinals, mitres, and pontiffs.
 
-But what did it really mean when Jesus says the church can act for Him?  He 'loosed' Lazarus from the dead (John 11:44); can I revive my dead relatives?  Or get my prodigal children into Heaven?   Jesus has the power over flesh; can we even pray the common cold out of our churches?  At the Name of Jesus, every knee will bow; should the masses bow at our name?   No.
+But what did it really mean when Jesus said the church can loosen and bind for Him?  He 'loosed' Lazarus from the dead (John 11:44); can I revive my dead relatives?     Jesus has the power over flesh; can we pray even the common cold out of our churches?  At the Name of Jesus, every knee will bow; should the masses bow at our name and reflected authority, too?   No.
 
-Okay, so maybe those aren't the kind of powers God gives away.  What about powers God does give away in the Old Testament; do we get that?  Can we grow long hair and get super strength?  Can we split the Red Sea? Can we stop the sun? Can we hit a rock and get water? No.
+Okay, so maybe those aren't the kind of powers God gives away.  What about powers God does give away in the Old Testament; do we get that?  Can a couple of us grow long hair and get super strength?  Can three of us split the Red Sea? Stop the sun? Hit a rock and get water? No.
 
-So was Jesus *lying* when he said we have authority to act for him? No.
+So was Jesus *lying* when he said two or more Christians have His authority? No.
 
-"Whatever" might look like a big, general delegaation of power, but it isn't. The general words ("keys," "whatever") are interpreted in context and with reference to other scriptures.  In your introduction to hermaneutics class, hopefully you learn the principle of non-contradiction -- the Bible should be interpreted not to contradict itself.  
+"Whatever" might look like a big, general wad of power, but it isn't. The general words ("keys," "whatever") are interpreted in context and with reference to other scriptures.  In introduction to hermaneutics, pastors learn the principle of non-contradiction -- the Bible should be interpreted not to contradict itself.  
 
-Giving the church "Keys to the Kingdom" may give you some authority to act for Jesus, but even the Pope stops short of claiming all the powers of Jesus ad interim.  That's epecially true of the powers given specifically to Jesus.  When the Angel cries out, asking "Who is worthy to open the scroll and loosen the seals of it?" do you and your friends stand up?  No -- that's rerved to the Lion of Judah.  If the Bible says it's a power of Jesus, it's not given to someone else unless there's a specific statement. Jesus has authority to abolish all rule, authority and power. 1 Cor 15:24.   You don't. Jesus immediately 'loosens' speech impediments. (Mar. 7:35).  You can't. He holds all things together. Col. 1:18.  Pastor Doe and Brother Roe can't. When Jesus says "whatever you loosen," He didn't mean you can loosen whatever. 
+Giving the church "Keys to the Kingdom" may give it some authority, but even the Pope doesn't claim all the powers of Jesus **ad interim.**  That's epecially true of the powers given specifically to Jesus.  When the Angel cries out, asking "Who is worthy to open the scroll and loosen the seals of it?" do you and your friends stand up?  No -- that's reserved to the Lion of Judah.  If the Bible says it's a power of Jesus, it's not given to someone else unless there's a specific statement.  Jesus has authority to abolish all rule, authority and power. 1 Cor 15:24.   You don't. Jesus immediately 'loosens' speech impediments. (Mar. 7:35).  You can't. He holds all things together. Col. 1:18.  Pastor Doe and Brother Roe can't. When Jesus says "whatever you loosen," He didn't mean you can loosen whatever.
 
 So what does it mean?  According to Jonathan Leeman, the modern Baptist understanding is this:  
 > Whoever has the keys can do what Jesus did with Peter in Matthew 16: listen to a gospel profession and publicly affirm or deny that an individual’s profession is from the “Father who is in heaven” (16:17). Matthew 18 expands this slightly by helping us to see that the holder of the keys should do this in part by considering whether or not a person is repentant. **The authority of the keys, in other words, is about affirming right gospel words (doctrine) and a right gospel life (discipline).**
 
-"Whatever you loose" turns out to be a remarkably narrow grant of authority. The things "loosed" are limited to items specficially discussed in Matthew 16 and 18, specifically listed elsewhere in scripture, or made necessary by implication.  Binding or loosing things beyond that grant risks puts you at the bottom of the Kingdom.  Matt. 5.
+"Whatever you loose" turns out to be a narrow grant of authority, in context. The things "loosed" are limited to items specficially discussed in Matthew 16 and 18, specifically listed elsewhere in scripture, or made necessary by implication.  Binding or loosing things beyond that puts you at the bottom of the Kingdom.  Matt. 5.
 
-
-
-Now let's talk about the breakdown of Baptist institutional government around the issue of "ad interim" delegated authority.  
+Now let's talk about SBC entities. Like Popes and Cardinals, .  
 
 As I have written elsewhere, telling Trustees to "act for the Convention" is meaningless if Trustees do not understand what's supposed to happen.  If you sit in SBC annual meetings, and read the lists of nominees, you might think you are sending 40 or 60 people to govern each entity.  That's the Baptist expectation.  It's also the legal expectation: "when a number of directors are elected to manage the affairs of the corporation, it is contemplated that the corporation shall have the benefit of the judgment, counsel and influence of all of those directors.” 2 William Meade Fletcher et al., Fletcher Cyclopedia of Law of Corporations § 406
 

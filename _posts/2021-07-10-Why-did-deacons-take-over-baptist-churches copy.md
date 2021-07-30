@@ -5,11 +5,11 @@ comments: true
 link: 
 author: Jon
 ---
-The April-June issue of the 9Marks journal is out, and the topic is “Deacons.”  
+The April-June issue of the 9Marks journal is out and the topic is “Deacons.”  
 
 I'm grateful for 9Marks' resuscitation of the elder.  The return of a "plurality of elders" among 21st Century Baptists can be chalked up almost entirely to 9Marks, along with a few friends like Founders. 
 
-But that leads me to a question seldom asked: where did all the elders **go**? Why was the "a pastor and the deacons" combination nearly universal in Southern Baptist churches for over a century? 
+But that leads me to a question seldom asked: where did all the elders **go**? Why was the "pastor and the deacons" combination nearly universal in Southern Baptist churches for over a century? 
 
 In the Nine Marks of a Healthy Church, Mark Dever suggests [“inattention to Scripture” and “the pressure of life on the frontier” may have contributed to the decline of elder plurality.](https://www.9marks.org/review/elders-congregational-life-phil-newton/).
 
@@ -21,11 +21,11 @@ Were American Baptists 'inattentive to scripture'?  In some sense, all sin is a 
 
 So, while any error is connected to inattention to scripture, it's strange that there wasn't much of a fight between Baptist “elderists" and  "deaconists."  No group called out the encroaching pragmatism and liberalism of the deaconists, and no deaconists claimed the watching world needed their orthopraxy more than sermonizing.  If a plurality of elders is biblical and historical, how did the deaconists win without a fight? 
 
-Was it furthered by "life on the frontier?"  Again, yes, in some sense.  The shortage of ministers during the westward expansion meant many churches were irregular.  In my home state, Missouri, missionary pastors arrived shortly after the Louisiana Purchase, and would ride circuit. Many Baptist churches held services only once or twice a month. The idea of a "cooperative" mission budget developed in Missouri when a glut of guest-preaching fundraisers threatened to take over most of the preaching in those frontier churches.
+Was it furthered by "life on the frontier?"  Again, yes, in some sense.  The shortage of ministers during the westward expansion in the US meant many churches were irregular.  In my home state, Missouri, missionary pastors arrived shortly after the Louisiana Purchase, and would ride circuit. Many Baptist churches held services only once or twice a month. The idea of a "cooperative" mission budget developed in Missouri when a glut of guest-preaching fundraisers threatened to take over most of the preaching in those frontier churches.
 
 But even on the frontier, Baptists longed for regularity. They understood the New Testament goal was to have their own deacons and preacher, and to meet each Sabbath if not more often.  
 
-So how did people attentive to scripture, and longing for New Testament polity, wind up with a "deacon-led" polity? Like the answer to so many Baptist questions, you'll need to go back to the Glorious Revolution to find the source.
+So how did people attentive to scripture, and longing for New Testament polity and health, wind up with a "deacon-led" polity? Like the answer to so many Baptist questions, you'll need to go back to the Glorious Revolution to find the source.
 
 ## Persecuted Baptists Find New Freedom in the 17th Century
 
@@ -39,15 +39,15 @@ Now you'll understand why there was an explosion of Baptist works in the late 17
 
 ## The Tolerable Acts
 
-Here it is important to understand what the Act of Toleration allowed.  While it was a great leap forward for religious liberty, it was nothing like the United States' First Amendment. The Act of Toleration imposed a long oath to support the King and Queen and required swearing off Catholic doctrines. But even taking the oath, nonconformists could not hold most public offices.  
+Here it is important to understand what the Act of Toleration allowed.  While it was a great leap forward for religious liberty, it was nothing like the United States' First Amendment. The Act of Toleration imposed a long oath to support the King and Queen and required swearing off Catholic doctrines. But even after taking the oath, nonconformists could not hold most public offices.  
 
-And to preach, nonconformist ministers still had to affirm most of the Church of England's thirty-nine articles.  Nonconformist preachers had to register their place of preaching.  "Anabaptists" (and Baptists) could opt out of Article 27's commitment to pedobaptism.  Unlike their later, American counterparts, many early English Baptists seem to have agreed to take these oaths.[^3]  
+And to preach, nonconformist ministers still had to affirm most of the Church of England's thirty-nine articles.   "Anabaptists" (and Baptists) could opt out of Article 27's commitment to pedobaptism.  They had to register a place of preaching.  But unlike their later, American counterparts, early English Baptists seem to have agreed to take these oaths.[^3]  
 
-And to meet, there was a separate requirement for the place of worship.  Each "congregation or assembly" had to register a "place of meeting," with notice to the bishop, local deacons, or the justices of the peace.
+And congregations also had to register a location.  Each "congregation or assembly" had to register a "place of meeting," with notice to the bishop, local deacons, or the justices of the peace.
 
 ## Limits to Toleration and Workarounds
 
-But the Toleration Act did **not** provide a neat way to put ministers, house of worship, and congregations under the same umbrella. Dissenters were banned from public office, and corporations were considered a public office from the King.  So, law did not recognize a "Baptist Church."   The law recognized individual people.  Some individuals could preach.  And other individuals could associate to hear a permitted preacher, but only at registered location.
+Even  after jumping through all the hoops, nonconformists faced legal disabilities.  There was a legal structure around Anglican churches, ministers, parishioners, and the heirarchy.  But the Toleration Act did **not** provide a neat way to put nonconforming ministers, houses of worship, and congregations under the same umbrella. Dissenters were banned from public office, and corporations were considered a public office from the King.  So, law did not recognize a "Baptist Church."   The law recognized individual people.  Some individuals could preach.  And other individuals could associate to hear a permitted preacher, but only at registered location.
 
 This is an easy enough problem to solve if someone owns a house.  After the Toleration Act, many Baptist churches met in houses, cottages, or barns.  A sympathetic individual could register his home as a meeting place, and then arrange to have a minister preach.  These property owners tended to be wealthier and older patrons.  
 
@@ -55,7 +55,7 @@ But what happened if the owner of the church house died?  Or left for another de
 
 Dissenters had to deal with these problems the best they could.  
 
-The common legal workaround was a "trust." Ancient English law allowed landowners to devote their property to a charitable  purpose, including lawful religion.  The land might be "owned" by one or more individuals, but the English courts would force the owners to honor the purpose of the "trust."  One could leave property to a single trustee, but as the entire purpose was to avoid the hassle of a person's death, trusts typically have more than one trustee.  And to avoid ties, there are usually *three* trustees.
+The common legal workaround was a "trust." Ancient English law allowed landowners to devote their property to a charitable  purpose, including lawful exercise of religion.  The land might be "owned" by one or more individuals, but the English courts would force the owners to honor the purpose of the "trust."  One could leave property to a single trustee, but as the entire purpose was to avoid the hassle of a person's death, trusts typically have more than one trustee.  And to avoid ties, there are usually *three* trustees.
 
 For many churches in England, then, their "trust deed" became their most important governing document.  Just as it sounds, the trust deed dedicated the property to religious uses; it was a deed that created a trust. Without the trust deed, the title to the property  was impermanent; without permanence, it was difficult to stay properly registered.  And the penalities for unregistered 'conventicles' (gatherings of dissenters) were severe, at least in theory.
 
@@ -85,19 +85,21 @@ So how did the Act of Toleration deform New Testament polity?  At its root, diss
 
 It might seem like churches would press to end these requirements. But the workaround was healthy enough to let churches be healthy enough.[^6]  In most congregations, elders, deacons, trustees, and congregations aren't in conflict. If a church wanted a plurality of elders, it could have them. But the minimum was an authorized minister in agreement with keepers of an authorized location. 
 
-So, this legal workaround, a holdover of persecution of the dissenters, became the blueprint for roughly 300 years.  Even in the United States, it was an open question whether State governments **should** recognize a 'church' as a corporation with its own property.  Only in the early 20th century did "general" corporation statutes become widespread, where legal entities could form on general rules, without a special charter from the legislature.
+So, this legal workaround, a holdover of persecution of the dissenters, became the blueprint for roughly 300 years.  Even in the United States, after most states had disestablished official churches, it was an open question whether State governments **should** recognize a 'church' as a corporation with its own property.  Corporations were usually created by the state legislature, and requiring minority faiths to lobby for their own corporations faced obvious challenges. Only in the early 20th century did "general" corporation statutes become widespread, where legal entities could form on general rules, without a special charter from the legislature.
   
-But while so much of what we think of Baptist and Evangelical life flourished under the Toleration scheme, a church could  become only-*so*-healthy.  The Church's vision of itself became influenced by the law and culture. When disagreement or conflict did arrive, the law gave a little more weight to the property-keepers.[^7] 
+But while so much of what we think of Baptist and Evangelical life flourished under the Toleration scheme, a church could  become only-*so*-healthy.  When disagreement or conflict did arrive, the law mediated many questions through the property, and so it gave a little more weight to the property-keepers.[^7] 
 
 ## Conclusion
 
-For several reasons, I think the English "toleration" structure was a primary reason for apparently "deacon-led" churches.  When it was later combined with the "independent contractor" model of ministering after the Great Awakening, pragmatism built on legal workarounds. Like a massive planet, the gravitational pull of the legal system and the culture slowly worked on our seemingly independent polity decisions.
+For several reasons, I think the English "toleration" structure was a primary reason for apparently "deacon-led" churches.  When it was later combined with the "independent contractor" model of ministering after the Great Awakening, pragmatism built on legal workarounds. For  nearly 200 years, there was no reason to think the law could be changed, so there was little reason for there to be camps of Baptists with opposing views. The shortcomings were most apparent in conflict between pastors and deacons, and so it would have been easier to attributed the dysfunction to elders or deacons.   By the last half of the 19th century, Baptists' vision of their own "tradition" already accounted for the law and the culture it had created.
 
-But an important implication of all this: the deformation *wasn't caused by deacons usurping power.* If anything, it was the *elder* office that was more deformed by Toleration. And it would be an equal error to now deform the New Testament Deacon role into "dinner table servants," and not "counting table servants" to the church.  The Apostles didn't fear food service; the followers of Jesus feared the counting table work would warp their ministry of the Word. The initial interaction between Spurgeon and his deacons, and respect of the differing roles, mediated through the congregation, may have represented a good example of what the relationship **should** looks like, even without the strictures of Toleration.
+Like a massive planet, the gravitational pull of the legal system and the culture slowly worked on our seemingly independent polity decisions.
 
-And that's also not to say churches were wrong for trying to follow the gospel under the culture and law available to them.  But at some point, the pragmatism became the tradition, and developed its own inertia.
+But an important implication of all this: the deformation *wasn't caused by deacons usurping power.* If anything, it was the *elder* office that was more deformed by Toleration. And it would be an equal error to 'compensate' by deforming the New Testament Deacon role into mere "dinner table servants," and not "counting table servants" to the church.  The Apostles didn't fear food service; they no doubt remembered Jesus' condemnation of religious leaders who devoured widows' houses and mites.  Mark 12:38, et seq. They feared the counting table work would warp their ministry of the Word. The interaction between Spurgeon and his deacons, and respect of the differing roles mediated through the congregation, may have represented a good example of what the relationship **should** looks like, even without the strictures of Toleration.
 
-What subtle deformations of the offices of elder, deacon, and member are present in today's church?  Do the laws that elevate "Directors" or popular corporate leadership models inform our polity more than the New Testament?  Even among people dedicated to the Word, in seemingly-healthy churches we would like to reproduce, it is important to think about why we do what we do.  
+And it's also important to understand that most of the early Baptists were trying to do their best under the culture and law available to them.  But at some point, the pragmatism became the tradition, and developed its own inertia.
+
+We probably has similar traditions; what subtle deformations of the offices of elder, deacon, and member are present in today's church?  Do the laws that elevate "directors" or popular corporate leadership models inform our polity more than the New Testament?  Even among people dedicated to the Word, in seemingly-healthy churches we would like to reproduce, it is important to think about why we do what we do.  
 
 ---
 

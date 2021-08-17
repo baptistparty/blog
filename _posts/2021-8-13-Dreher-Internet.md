@@ -12,6 +12,6 @@ Rod Dreher shares thoughts on an essay by Steve Skojec:
 
 The Internet is *apocalyptic* in the old sense.  It isn't the "end times," but it is *revealing.*  In the same way the fruit in the Garden was promised to be apocalyptic, and the "Revelation to John" was apocalyptic.   If the Internet apocalypse isn't entirely spiritual, it is similar to the apocalypse of the printing press, which led to the Reformation and the Engligtenment.
 
-The Internet, in some ways, pulled back the curtain on both.  There are no sustainable heroes in a world of 24/7 cameras and broad theories of complicity. And there are not many sustainable taboos when videos of every taboo are widespread -- and they seem to be having fun, contrary to what the books told you.  Both the enlightenment and the Reformation developed ways to think about authority; and those methods are not under steady criticism.  
+The Internet, in some ways, pulled back the curtain on both.  There are no sustainable heroes in a world of 24/7 cameras, and when everyone is complicit in history.  And there are not many sustainable taboos when videos of every taboo are widespread -- and the subjects seem to be having fun, contrary to what the books and authorities told you.  Both the Enlightenment and the Reformation developed ways to think about authority; those modes of authority are now under steady criticism, and seem quite tired.   
 
-And just as Luther's theses were hammered up about a century after Gutenberg's press, I suspect the answer to this apocalypse may be away, off in the distance.
+Gutenberg's press predated Luther's theses by about a century;  I suspect the answers to our present apocalypse may be away, off in the distance.

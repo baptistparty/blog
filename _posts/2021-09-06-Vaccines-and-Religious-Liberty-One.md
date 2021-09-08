@@ -15,21 +15,21 @@ Unfortunately, I’ve noticed some normally patient Evangelical leaders trying t
 
 It leads to a logic like this:
 
-•	Claim 1: Fringe religious groups might have religious beliefs implicated by vaccines, but Evangelicals really can’t.
+•Claim 1: Fringe religious groups might have religious beliefs implicated by vaccines, but Evangelicals really can’t.
 
-•	Claim 2: Because Evangelicals can’t have religious beliefs impacted by vaccine mandates, Evangelicals who claim religious exemptions are insincere.
+•Claim 2: Because Evangelicals can’t have religious beliefs impacted by vaccine mandates, Evangelicals who claim religious exemptions are insincere.
 
-•	Claim 3: If we allow insincere (fraudulent) Evangelicals to seek religious exemptions, it will “hurt us when we really need religious liberty.”
+•Claim 3: If we allow insincere (fraudulent) Evangelicals to seek religious exemptions, it will “hurt us when we really need religious liberty.”
 
 But this is not an argument; this is Bulverism.[^1]
 
-Let me say, I am vaccinated. I’m a cancer survivor, and “natural is best” strikes me as an unsteady guide to medicine. People are alive because I was scientifically poisoned with very unnatural substances in the ’90s. I’m incredibly glad for the common grace of scientists and officials who have produced the temporary defense against COVID-19 in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks. “Pretty healthy” people are dying from COVID. Most of you should take reasonable, ethical precautions to avoid death. 
+Let me say, I am vaccinated. I’m a cancer survivor, and “natural is best” strikes me as an unsteady guide to medicine. People are alive because I was scientifically poisoned with very unnatural substances in the ’90s. I’m incredibly glad for the common grace of scientists and officials who have produced the temporary defense against COVID-19 in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks. “Pretty healthy” people are dying from COVID. Most of you should take reasonable, ethical precautions to avoid death.
 
 But while I share the ‘mainstream’ evangelical conclusion, it’s wrong to suggest all the other Evangelicals are liars and loons.
 
 And that third claim is particularly dangerous, because it isn’t limited to COVID. Rather than view “religious liberty” as a Christian obligation to fellow humans, it sees “real religious liberty” as a chip in our negotiations with the State. It is the religious liberty you’d use to retain influence in a coalition government, not the principled religious liberty of early Baptists.
 
-## Vaccine Ethics are a balancing test, not a switch.
+## Vaccine Ethics are a balancing test, not a switch
 
 First things first: can Evangelicals have religiously motivated objections to taking a vaccine? Yes. Evangelicals can have different conclusions about the vaccines and still be Evangelicals.
 
@@ -37,7 +37,7 @@ The media likes to talk about religion and vaccines like there’s a switch. For
 
 But that’s not how Christians think about the ethics of vaccines.
 
-Granted, there are non-religious objections to vaccine mandates. You can ask if they're safe, you can disagree with scientific studies, you can question the motives of the scientists behind the studies.  You can argue it's beyond the government's authority to jab you against your will, or that it's a violation of fundamental rights. You can be scared of the consequenses of vaccine passports or social credit scores.  You can believe it's unhealthy for small children to be masked, or question the long-term effect of mRNA vaccines. But none of these are "religious" objections. 
+Granted, there are non-religious objections to vaccine mandates. You can ask if they're safe, you can disagree with scientific studies, you can question the motives of the scientists behind the studies.  You can argue it's beyond the government's authority to jab you against your will, or that it's a violation of fundamental rights. You can be scared of the consequenses of vaccine passports or social credit scores.  You can believe it's unhealthy for small children to be masked, or question the long-term effect of mRNA vaccines. But none of these are "religious" objections.
 
 If you don't have a religious objection, you shouldn't ask for a religious accommodation.
 
@@ -46,7 +46,7 @@ But there are *religious* concerns about vaccines, too. The most common ethical 
 Those stem cells involve Christian ethical concerns. In 2008, the Catholic Congregation for the Doctrine of Faith wrote that “the aim of public healthcare cannot justify voluntary abortion in order to obtain cell lines for vaccine production – and thus their distribution and marketing is also morally unlawful in principle.” But – and this is the big but – “grave reasons may be morally proportionate to justify the use of such ‘biological material’.”[^2]
 “Proportionate” invokes a fraction or balancing test. If there are grave reasons to use improperly obtained material, those grave reasons must outweigh the wrong. Fine lines and crow’s feet are not “grave reasons,” so stem cells in cosmetics remain off limits. But death is the sine qua non of “grave reasons.” If there is a risk of death, the ethical question involves proportionality. Most of us know the basics of that balancing. You can speed on the way to the delivery room or kill someone in self-defense. Most college-educated people are introduced to harder ethical problems like the famous “Trolley Problem” or the travails of the Donner Party.
 
-At the danger of making things seem more precise than they really are, a balancing test works something like an equation. You should take a COVID vaccine if GR[ave reasons] are sufficiently more than the E[vil] involved. Or something like: 
+At the danger of making things seem more precise than they really are, a balancing test works something like an equation. You should take a COVID vaccine if GR[ave reasons] are sufficiently more than the E[vil] involved. Or something like:
 
 GR > E.
 
@@ -95,7 +95,6 @@ So we know *some* evangelical objections to the vaccine are grounded in a religi
 
 Thankfully, there is nothing new about such objections, and they don't present *any* real threat to religious liberty.
 
+[^1]:Bulverism: the rhetorical fallacy coined by CS Lewis, which combines circular reasoning with condescension and presumption; it explains why the person is wrong, by attacking motive. ↩
 
-[^1]:	Bulverism: the rhetorical fallacy coined by CS Lewis, which combines circular reasoning with condescension and presumption; it explains why the person is wrong, by attacking motive. ↩
-
-[^2]: Evangelicals, of course, don't agree with Catholics about everything.  But Catholics have thought about Christian life ethics consistently for longer than Protestants, so their insights remain valuable in this area. 
+[^2]: Evangelicals, of course, don't agree with Catholics about everything.  But Catholics have thought about Christian life ethics consistently for longer than Protestants, so their insights remain valuable in this area.

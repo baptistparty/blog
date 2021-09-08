@@ -87,5 +87,5 @@ So unless you can rule out evil, the claim of Evaangelical vaccine exemption is 
 And if there is anything open to debate, it is how to measure evil and the effect of time.   The Christian consensus is that there's nothing wrong with a good steak, but vegans and vegetarians have a different view about the evil of factory farming.  Modern social justice movements say there's collective and macroscopic complicity by people who benefit from systems of racism begun hundreds of years ago. The 1960s is more than my lifetime, but it's hardly time immemorial. We know that God is, in a sense, outside time -- but also interested, acutely, in resolving the smallest bits of evil.      
 
 
-[1] Bulverism: the rhetorical fallacy coined by CS Lewis, which combines circular reasoning with condecension and presumption; it explains *why* the person is wrong, by attacking motive.
+[^1]: Bulverism: the rhetorical fallacy coined by CS Lewis, which combines circular reasoning with condecension and presumption; it explains *why* the person is wrong, by attacking motive.
   

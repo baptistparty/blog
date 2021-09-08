@@ -69,7 +69,7 @@ That seems to be the consensus position of Catholic and Evangelical ethicists th
 
 To all this, I say: maybe. Yes, there’s a difference between the original fetus and the descended tissues. Yes, sixty years is a long time ago. Yes, the ship has mostly sailed; stem cell products are used so widely, it’s nearly impossible to live in the United States without benefitting in some way from ethically questionable stem cells.
 
-But it also has the feel of throwing your hands up. “They’re everywhere” doesn’t say when unethical stem cells turn into ethical stem cells. These experts can tell us they think E is now approaching zero, based on their experience with moral dilemmas and their own consciences, and the cold hard realities. And I agree with their discussions of the variables. 
+But it also has the feel of throwing your hands up. “They’re everywhere” doesn’t say when unethical stem cells turn into ethical stem cells. These experts can tell us they think E is now approaching zero, based on their experience with moral dilemmas and their own consciences, and the cold hard realities. And I agree with their discussions of the variables.
 
 These are good, educated, theological *examples.* But none of their arguments are proof that E is zero.
 
@@ -88,7 +88,6 @@ So we know *some* evangelical objections to the vaccine are grounded in a religi
 
 Thankfully, there is nothing new about such objections, and they don't present *any* real threat to religious liberty.
 
- 
 
 [^1]:	Bulverism: the rhetorical fallacy coined by CS Lewis, which combines circular reasoning with condescension and presumption; it explains why the person is wrong, by attacking motive. ↩
 

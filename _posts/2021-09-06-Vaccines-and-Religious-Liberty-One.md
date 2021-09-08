@@ -7,9 +7,11 @@ author: Jon
 
 The frazzled nerves of Americans are on full display as summer vacation ends and parents must make COVID plans for their students.   In April, we all hoped that we could get jabbed and relax.  Instead, we face another year of warring science, pseudoscience and politics.
 
-The most frazzled seem to be in the professional classes.  People still want too-simple solutions and one-step plans.  The too-simple answer here has been to "get the vaccine, and this will end."  Which has turned into a one-step blame game: "if this doesn't end, it's because you didn't get the vaccine." No one wants to be blamed. 
+The most frazzled seem to be in the professional classes.  People still want too-simple solutions and one-step plans.  The too-simple answer here has been to "get the vaccine, and this will end."  Which has turned into a one-step blame game: "if this doesn't end, it's because you didn't get the vaccine." 
 
-In the last few weeks, I've noticed some normally patient Evangelical leaders try to cajole unvaccinated evangelicals using spiritual pressure. In order to show a watching world that Evangelicals aren't to blame, they claim that real evangelicals will get the vaaccine.  And so they must undermine the religious liberty claims of tens of thousands of Evangelicals.
+Understandably, no one wants to be blamed for prolonging human suffering unnecessarily.
+
+Unfortunately, I've noticed some normally patient Evangelical leaders trying to cajole unvaccinated evangelicals recently.  And they're using *spiritual* pressure. In order to show a watching world that Evangelicals aren't to blame, they claim that real evangelicals will get the vaaccine.  And so they must undermine the religious liberty claims of tens of thousands of Evangelicals who are claiming religious exemptions. 
 
 It leads to a logic like this:  
   * Claim 1: Fringe religious groups might have religious beliefs implicated by vaccines, but Evangelicals really can't. 

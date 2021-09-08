@@ -9,9 +9,9 @@ The frazzled nerves of Americans are on full display as summer vacation ends and
 
 The most frazzled seem to be in the professional classes.  People still want too-simple solutions and one-step plans.  The too-simple answer here has been to "get the vaccine, and this will end."  Which has turned into a one-step blame game: "if this doesn't end, it's because you didn't get the vaccine." No one wants to be blamed. 
 
-In the last few weeks, I've noticed some normally patient Evangelical leaders try to cajole unvaccinated evangelicals using spiritual pressure. In order to show Evangelicals aren't to blame, they claim that real evangelicals will get the vaaccine. 
+In the last few weeks, I've noticed some normally patient Evangelical leaders try to cajole unvaccinated evangelicals using spiritual pressure. In order to show a watching world that Evangelicals aren't to blame, they claim that real evangelicals will get the vaaccine.  And so they must undermine the religious liberty claims of tens of thousands of Evangelicals.
 
-Which leads them to logic like this:  
+It leads to a logic like this:  
   * Claim 1: Fringe religious groups might have religious beliefs implicated by vaccines, but Evangelicals really can't. 
   * Claim 2: Because Evangelicals can't have religious beliefs impacted by vaccine mandates, Evangelicals who claim religious exemptions are insincere. 
   * Claim 3: If we allow insincere (fraudulent) Evangelicals to seek religious exemptions, it will "hurt us when we really need religious liberty."

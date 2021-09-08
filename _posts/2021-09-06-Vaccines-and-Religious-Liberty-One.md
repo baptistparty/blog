@@ -5,7 +5,7 @@ comments: true
 author: Jon
 ---
 
-The frazzled nerves of Americans are on full display as summer vacation ends and parents must make COVID plans for their students.   In April, we all hoped that we could get jabbed and relax.  Instead, we face another year of warring science, pseudoscience and political warfare.
+The frazzled nerves of Americans are on full display as summer vacation ends and parents must make COVID plans for their students.   In April, we all hoped that we could get jabbed and relax.  Instead, we face another year of warring science, pseudoscience and politics.
 
 The most frazzled seem to be in the professional classes.  People still want too-simple solutions and one-step plans.  The too-simple answer here has been to "get the vaccine, and this will end."  Which has turned into a one-step blame game: "if this doesn't end, it's because you didn't get the vaccine." No one wants to be blamed. 
 

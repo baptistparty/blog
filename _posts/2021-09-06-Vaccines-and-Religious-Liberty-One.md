@@ -46,6 +46,10 @@ But it boils down to God’s judgment. If I am wrong, God will judge me. He will
 So the claim of Evangelical vaccine exemption is a claim that looks like many conscientious objection claims: “please do not make me do this thing that God says I should not do.”  The objection does not depend on irreligious assumptions. It depends on assigning a different weight to the wrong, or a different effect to the passage of time.
 And if there is anything open to good-faith religious debate, it is how to measure evil and the effect of time. The Christian consensus is that there’s nothing wrong with a good steak, but vegans and vegetarians have a different view about the evil of factory farming. Modern social justice movements say there’s collective and macroscopic complicity by people who benefit from systems of racism begun hundreds of years ago. The 1960s is more than my lifetime, but it’s hardly time immemorial. We know that God is, in a sense, outside time – but also interested, acutely, in resolving the smallest bits of evil.
 
+So we know *some* evangelical objections to the vaccine are grounded in a religious framework. And the answer to that framework is grounded in matters of conscience.  *Most Christians* will believe the good of the vaccine *vastly* outweighs the distant and remote relationship to an abortion in the 1960s. But some will honestly conclude otherwise, based on religious principle.  
+
+Thankfully, there is nothing new about such objections, and they don't present *any* real threat to religious liberty.
+
  
 
 [^1]:	Bulverism: the rhetorical fallacy coined by CS Lewis, which combines circular reasoning with condescension and presumption; it explains why the person is wrong, by attacking motive. ↩

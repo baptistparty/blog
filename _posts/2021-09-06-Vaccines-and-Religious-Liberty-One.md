@@ -47,7 +47,7 @@ In 2017, the Pontifical Academy for Life issued a note about how to balance stem
 
 GR > E/t   
 
-The Academy approved the use of clinically proven vaccines, even if they contained stem cell lines. But it wasn't quite clear how the clinical approval worked in relation to the ethical balancing test.    Was it that the clinical approval solved ethical procurement decisions? Or were they saying something about the amount of time that had passed?  In terms of our formula's variables, were they saying E=O or that E/t=~0?
+The Academy approved the use of clinically proven vaccines, even if they contained stem cell lines. But it wasn't quite clear how the clinical approval worked in relation to the ethical balancing test.  Was it that the clinical approval solved ethical procurement decisions? Or were they saying something about the amount of time that had passed?  In terms of our formula's variables, were they saying E=O or that E/t=~0?
 
 It seems to be the latter.  The Congregation for the Doctrine of Faith continues to talk in terms of the proportinality test. In December 2020, [it acknowledged that some COVID-19 vaccines use ethically suspect materials](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2020/12/21/0681/01591.html#ing), but that the farther from the initial wrong, there are "differing degrees of responsibility" in cooperation with that evil. Christians should prefer vaccines that do not use ethically suspect material, it said. But where a vaccine prevents *death,* ethics allow a Christian to decide a clinically-approved vaccine outweighs any residual cooperation with the original wrong.   
 
@@ -60,13 +60,13 @@ And, the Congregation expected some Catholics to continue to have objections, or
 
 If  Catholic institutiions say the vaccine is acceptable, why do they allow that others may reach a different conclusion?   
 
-Because the real moral work is not in establishing the formula. The hard part is assigning values to moving targets. 
+Because the real moral work is not in establishing the formula. The hard part is assigning values to moving targets. At what point can you always feel right about indirectly benefiting from an unethical abortion in the 1960s? At what point does God stop judging?  
 
-At what point can you always feel right about indirectly benefiting from an unethical abortion in the 1960s? At what point does God stop judging?  
+That's hard to say, apart from your conscience. 
 
-That's hard to say, apart from your conscience. Obviously, the easiest way to justify the decision is to make sure the Grave Risk always outweighs the Evil.  And the easiest way to do that is to make sure E=0 -- if there's no evil involved, it doesn't take much of a reason.  
+Obviously, the easiest way to justify the decision is to make sure the Grave Risk always outweighs the Evil.  And the easiest way to do that is to make sure E=0 -- if there's no evil involved, it doesn't take much of a reason.  
 
-That seems to be the consensus position of Catholic and Evangelical ethicists that I respect. TRyan Anderson, Robbie George, and other Catholic thinkers have said as much in Public Discourse; that position has largely been echoed by Andrew Walker and C. Ben Mitchell in a corresponding evangelical essay.  Anderson, et al., deny that stem cell lines are "body parts" or "human tissue;" they're immortal, biological products.  And the distance from the original abortion means there is no "contribution, cooperation, or promotion" of abortion. Thus, E=0. 
+That seems to be the consensus position of Catholic and Evangelical ethicists that I respect. Ryan Anderson, Robbie George, and other Catholic thinkers have said as much in Public Discourse; that position has largely been echoed by Andrew Walker and C. Ben Mitchell in a corresponding evangelical essay.  Anderson, et al., deny that stem cell lines are "body parts" or "human tissue;" they're immortal, biological products.  And the distance from the original abortion means there is no "contribution, cooperation, or promotion" of abortion. Thus, E=0. 
 
 To all this, I say: maybe. Yes, there's a difference between the original fetus and the descended tissues. Yes, sixty years is a long time ago.  Yes, the ship has mostly sailed; stem cell products are used so widely, it's nearly impossible to live in the United States without benefitting in some way from ethically questionable stem cells.   
 

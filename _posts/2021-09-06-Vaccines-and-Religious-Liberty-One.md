@@ -16,13 +16,13 @@ Which leads them to logic like this:
   * Claim 2: Because Evangelicals can't have religious beliefs impacted by vaccine mandates, Evangelicals who claim religious exemptions are insincere. 
   * Claim 3: If we allow insincere (fraudulent) Evangelicals to seek religious exemptions, it will "hurt us when we really need religious liberty."
 
-But this is not an *argument*; this is Bulverism[^1].  
+But this is not an *argument*; this is Bulverism.[^1]  
 
-Let me say, I am vaccinated. I'm a cancer survivor, and "natural is best" araguments strike me as an unsteady guide to life. I'm incredibly glad for the common grace of scientists and officials who have produced this temporary defense in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks.  "Pretty healthy" people are dying from COVID.  Most of you should take reasonable, ethical precautions to avoid death, and for most people, I think the vaccine is reasonably safe and reasonably ethical.   
+Let me say, I am vaccinated. I'm a cancer survivor, and "natural is best" strikes me as an unsteady guide to medicine. People are *alive* because I was scientifically poisoned with very unnatural substances in the '90s.  I'm incredibly glad for the common grace of scientists and officials who have produced the temporary defense against COVID-19 in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks.  "Pretty healthy" people are dying from COVID.  Most of you should take reasonable, ethical precautions to avoid death, and for most people, I think the vaccine is reasonably safe and reasonably ethical.
 
-But while I share the 'mainstream' evangelical conclusion, it's quite wrong to suggest all other evangelicals are liars and loons.   
+But while I share the 'mainstream' evangelical conclusion, it's quite wrong to suggest all the other evangelicals are liars and loons.   
 
-And that third claim is particularly dangerous, because it isn't limited to COVID.  Instead of viewing "religious liberty" as a Christian *obligation* to fellow humans, it sees "real religious liberty" as a chip in our negotiations with the State. It is something one might use to negotiate a cabinet seat in a coalition government, not the principled religious liberty of early Baptists. 
+And that third claim is particularly dangerous, because it isn't limited to COVID.  Instead of viewing "religious liberty" as a Christian *obligation* to fellow humans, it sees "real religious liberty" as a chip in our negotiations with the State. It is the religious liberty you'd use to retain influence in a coalition government, not the principled religious liberty of early Baptists. 
 
 
 # Vaccine Ethics are a balancing test, not a switch. 

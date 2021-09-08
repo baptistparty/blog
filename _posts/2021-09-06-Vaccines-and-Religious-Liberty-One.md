@@ -11,7 +11,7 @@ The most frazzled seem to be in the professional classes. People still want too-
 
 Understandably, no one wants to be blamed for suffering.
 
-Unfortunately, I’ve noticed some normally patient Evangelical leaders trying to cajole unvaccinated Evangelicals recently. And they’re using spiritual pressure. To show a watching world that Evangelicals aren’t to blame, they claim that real Evangelicals will get the vaccine. And so, [they must undermine the religious liberty claims of tens of thousands of Evangelicals who are claiming religious exemptions](https://twitter.com/DavidAFrench/status/1434972907399258112).
+Unfortunately, I’ve noticed some normally patient Evangelical leaders trying to cajole unvaccinated Evangelicals. And they’re using spiritual pressure. To show a watching world that Evangelicals aren’t to blame, they claim that real Evangelicals will get the vaccine. And so, [they must undermine the religious liberty claims of tens of thousands of Evangelicals who are claiming religious exemptions](https://twitter.com/DavidAFrench/status/1434972907399258112).
 
 It leads to a logic like this:
 

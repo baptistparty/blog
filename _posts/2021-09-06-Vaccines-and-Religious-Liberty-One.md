@@ -12,12 +12,11 @@ The most frazzled seem to be in the professional classes.  People still want too
 In the last few weeks, I've noticed some normally patient Evangelical leaders try to cajole unvaccinated evangelicals using spiritual pressure. In order to show Evangelicals aren't to blame, they claim that real evangelicals will get the vaaccine. 
 
 Which leads them to logic like this:  
-: 
   * Claim 1: Fringe religious groups might have religious beliefs implicated by vaccines, but Evangelicals really can't. 
   * Claim 2: Because Evangelicals can't have religious beliefs impacted by vaccine mandates, Evangelicals who claim religious exemptions are insincere. 
   * Claim 3: If we allow insincere (fraudulent) Evangelicals to seek religious exemptions, it will "hurt us when we really need religious liberty."
 
-But this is not an *argument,*; this is Bulverism[^1].  
+But this is not an *argument*; this is Bulverism[^1].  
 
 Let me say, I am vaccinated. I'm a cancer survivor, and "natural is best" araguments strike me as an unsteady guide to life. I'm incredibly glad for the common grace of scientists and officials who have produced this temporary defense in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks.  "Pretty healthy" people are dying from COVID.  Most of you should take reasonable, ethical precautions to avoid death, and for most people, I think the vaccine is reasonably safe and reasonably ethical.   
 

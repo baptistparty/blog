@@ -23,11 +23,11 @@ It leads to a logic like this:
 
 But this is not an argument; this is Bulverism.[^1]
 
-I'm vaccinated. I’m a cancer survivor; “natural is best” isn't my guide to life. I was scientifically poisoned in the ’90s, to great effect. I’m incredibly glad for the common grace of scientists and officials who have produced the temporary defense against COVID-19 in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks. “Pretty healthy” people are dying from COVID. Most of you should take reasonable, ethical precautions to avoid death.
+I'm vaccinated. I’m a cancer survivor. I was scientifically poisoned in the ’90s, to great effect; “natural is best” isn't my guide to life or medicine.  So I’m glad for the common grace of scientists and officials who have produced a temporary defense against COVID-19 in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks. “Pretty healthy” people are dying from COVID. Most people should take reasonable, ethical precautions to avoid death.
 
 But while I share the ‘mainstream’ evangelical conclusion, it’s wrong to suggest all the other Evangelicals are liars and loons.
 
-And that third claim is particularly dangerous, because it isn’t limited to COVID. Rather than view “religious liberty” as a Christian obligation to fellow humans, it sees “real religious liberty” as a chip in our negotiations with the State. It is the religious liberty you’d use to retain influence in a coalition government, not the principled religious liberty of early Baptists.
+And that third claim is particularly dangerous. It isn’t limited to COVID. Rather than view “religious liberty” as a Christian obligation to fellow humans, it sees “real religious liberty” as a chip in our negotiations with the State. It is the religious liberty you’d use to retain influence in a coalition government, not the principled religious liberty of early Baptists. 
 
 ## Vaccine Ethics are a balancing test, not a switch
 

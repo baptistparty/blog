@@ -5,29 +5,29 @@ comments: true
 author: Jon
 ---
 
-The frazzled nerves of Americans are on full display as summer vacation ends and parents must make COVID plans for their students. In April, we all hoped that we could get jabbed and relax. Instead, we face another year of warring science, pseudoscience, and politics.
+The frazzled nerves of Americans are on full display. In April, we all hoped that we could get jabbed and relax. Instead, as summer vacation ends, parents must wrestle with science, pseudoscience, and politics to make plans for their students. 
 
-The most frazzled seem to be in the professional classes. People still want too-simple solutions and one-step plans. The too-simple answer from professionals has been to “get the vaccine, and this will end.” Which has turned into a one-step blame game: “if this doesn’t end, it’s because you didn’t get the vaccine.”
+The most frazzled seem to be in the professional classes. People still want too-simple solutions and one-step plans. And the professionals' too-simple answer has been to “get the vaccine, and this will end.” It has turned into a one-step blame game: “if this doesn’t end, it’s because you didn’t get the vaccine.”
 
-Understandably, no one wants to be blamed for suffering.
+Understandably, no one wants to be blamed.
 
-Unfortunately, I’ve noticed some normally patient Evangelical leaders trying to cajole unvaccinated Evangelicals. And they’re using spiritual pressure. To show a watching world that Evangelicals aren’t to blame, they claim that real Evangelicals will get the vaccine. And so, [they must undermine the religious liberty claims of tens of thousands of Evangelicals who are claiming religious exemptions](https://twitter.com/DavidAFrench/status/1434972907399258112).
+Unfortunately, some normally patient Evangelical leaders have resorted to desperate, fraazzled cajoling. To show a watching world that Evangelicals aren’t to blame, they must claim that real Evangelicals will get the vaccine. And then, [they resort to  undermining religious liberty claims of all the Evangelicals who disagree.](https://twitter.com/DavidAFrench/status/1434972907399258112)
 
 It leads to a logic like this:
 
 •Claim 1: Fringe religious groups might have religious beliefs implicated by vaccines, but Evangelicals really can’t.
 
-•Claim 2: Because Evangelicals can’t have religious beliefs impacted by vaccine mandates, Evangelicals who claim religious exemptions are insincere.
+•Claim 2: Because Evangelicals can’t have religious beliefs impacted by vaccine mandates, those who claim religious exemptions are insincere.
 
 •Claim 3: If we allow insincere (fraudulent) Evangelicals to seek religious exemptions, it will “hurt us when we really need religious liberty.”
 
 But this is not an argument; this is Bulverism.[^1]
 
-Let me say, I am vaccinated. I’m a cancer survivor, and “natural is best” strikes me as an unsteady guide to medicine. People are alive because I was scientifically poisoned with very unnatural substances in the ’90s. I’m incredibly glad for the common grace of scientists and officials who have produced the temporary defense against COVID-19 in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks. “Pretty healthy” people are dying from COVID. Most of you should take reasonable, ethical precautions to avoid death.
+I'm vaccinated. I’m a cancer survivor. I was scientifically poisoned in the ’90s, to great effect; “natural is best” isn't my guide to life or medicine.  So I’m glad for the common grace of scientists and officials who have produced a temporary defense against COVID-19 in record time. And, on balance, it seems to me that the vaccines will save enough lives to justify the risks. “Pretty healthy” people are dying from COVID. Most people should take reasonable, ethical precautions to avoid death.
 
 But while I share the ‘mainstream’ evangelical conclusion, it’s wrong to suggest all the other Evangelicals are liars and loons.
 
-And that third claim is particularly dangerous, because it isn’t limited to COVID. Rather than view “religious liberty” as a Christian obligation to fellow humans, it sees “real religious liberty” as a chip in our negotiations with the State. It is the religious liberty you’d use to retain influence in a coalition government, not the principled religious liberty of early Baptists.
+And that third claim is particularly dangerous. It isn’t limited to COVID. Rather than view “religious liberty” as a Christian obligation to fellow humans, it sees “real religious liberty” as a chip in our negotiations with the State. It is the religious liberty you’d use to retain influence in a coalition government, not the principled religious liberty of early Baptists. 
 
 ## Vaccine Ethics are a balancing test, not a switch
 

@@ -40,13 +40,13 @@ Wax's call for neo-neo-neo-evangelicalism is consistent with his inability to gr
 
 *The Benedict Option* was scorned by BigEva as a call to 'retreat to the hills.'  But it wasn't that -- Dreher was reacting to the collapse of Christian reproduction and institutions.  We need to figure out how to reproduce in our children and communities before we claim to offer cultural renewal. Our sick churches produce sick communities; our missionaries carry sick churches.  So Dreher's popular-level thesis isn't all that different from Levin's later thesis: our institutions don't produce and build on the inheritance of prior generations. And it was not *all* that different from Dever's ecclesiology-driven focus on "healthy churches."  Our culture's 'personality-driven' evangelical platforms have eaten up generations of seed corn.  Soviet agriculture had better harvests than the current crop of neo-neo-evangelicals.
 
+## The Transdenominational mirage
+
 That's not to say I *don't want a strong evangelicalism. *  But a strong evangelicalism is a byproduct, not a goal.  
 
 CS Lewis famously analogized denominations as rooms off a Great Hall, but the goal was to leave the Hall.  "It is in the rooms, not in the hall that there are fires and chairs and meals. The Hall is a place from which to try the various doors, not a place to live in.  For That purpose, the worst of the rooms (whichever that may be) is, I think, preferable."  
 
 "Above all, you must be asking which Door is the True One, not which pleases you best..."
-
-## The Transdenominational mirage
 
 Contrast Lewis' vision with Wax seeking men and women who identify with the Hall: 
 > For this reason, the question I’ve been asking lately isn’t if there are “real Christians” out there, but whether there are “classic evangelicals.” Is there a future for Christians in various denominations and different countries who share the instincts of leaders like John Stott and J. I. Packer...?

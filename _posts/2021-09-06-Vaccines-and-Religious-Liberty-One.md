@@ -99,3 +99,47 @@ Thankfully, there is nothing new about such objections, and they don't present *
 [^1]:Bulverism: the rhetorical fallacy coined by CS Lewis, which combines circular reasoning with condescension and presumption; it explains why the person is wrong, by attacking motive. ↩
 
 [^2]: Evangelicals, of course, don't agree with Catholics about everything.  But Catholics have thought about Christian life ethics consistently for longer than Protestants, so their insights remain valuable in this area.
+
+
+
+mid 125 = 45+ X / 2
+250=45-x
+
+255 / 45
+
+
+245 OFFERED
+
+47,000
+
+Accepted 190/70   -- 55 for 23. 
+
+PROPOSAL: 165,000 / 80,000  25 for 10. 
+
+ACCEPTED: 140,000 / 90,000
+
+Mediator 115/100
+
+We approved offer of 130.
+
+-87493.04
+21112.91
+
+
+5/19/2017 - 4.55
+
+11/20/2019 - 11700
+12/19/2019 - 4.55
+11709.10
+
+
+
+
+
+---
+
+
+
+135 =  (X-70)/2+70
+
+135

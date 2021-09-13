@@ -8,12 +8,12 @@ link: https://heidelblog.net/2021/09/is-the-neo-evangelical-coalition-worth-savi
 
 [R. Scott Clark responds to Trevin Wax, in a short essay: “Is the neo-evangelical coalition worth saving?”](https://heidelblog.net/2021/09/is-the-neo-evangelical-coalition-worth-saving/)
 
-One point worth mulling: is neo-evangelicalism's focus opposed to revivalism?  Or is it the latest incarnation of feel-good revivalism?
+Clark makes one point worth mulling in the future: is neo-evangelicalism's focus opposed to revivalism?  Or is it the latest incarnation of feel-good revivalism?
 > the neo-evangelical project ... was always organized around great personalities and the successor movements are just as dependent upon them. They are still children of the First and Second Great Awakenings.
 
-## Transdenominationalism vs confessionalism
+But the biggest question Clark raises is about *vitality* of this movement; he compares confessional evangelicals with what he calls "tansdenominational" evangelicals.
 
-But even more importantly, Clark questions the vitality of transdenominational evangelicals versus confessional evangelicals.
+## Transdenominationalism vs confessionalism
 
 RSC sees Pietism, Revivalism, and Confessionalism uniting in the late 19th Century, to fight against the Rationalism and Enlightenment that swept the universities.  But he says leaders of the early fundamentalists were tied to churches (like J. Gresham Machen), whereas the children of fundamentalism went consciously transdenominational:
 >The great hero of the early fundamentalist movement, J. Gresham Machen, was dead and some of those who had studied with him wanted to retain his high view of Scripture, but they also wanted to move on.  They wanted to influence the broader culture and to leave behind his commitment to the Westminster Standards and his Presbyterian view of the church and sacraments.  Scholars call this movement, led by Carl F. H. Henry, Henry Ockenga, and Bill Graham, among others, neo-evangelicalism. This movement would seek to be both faithful to a small number of core theological commitments *and* culturally influential.
@@ -42,21 +42,21 @@ Wax's call for neo-neo-neo-evangelicalism dovetails with his inability to grappl
 
 ## The Transdenominational mirage
 
-That's not to say I *don't want a strong evangelicalism.*  But a strong evangelicalism is a byproduct, not a goal.  
+That's not to say I *don't want a strong evangelicalism.*  Evangelicalism is a "trasdenominational" phenomenon, but nobody is really a transdenominational evangelical.  Rather, strong evangelicalism is a byproduct of denominations, not a goal.  
 
-CS Lewis famously analogized denominations as rooms off a Great Hall, but the goal was to leave the Hall.  "It is in the rooms, not in the hall that there are fires and chairs and meals. The Hall is a place from which to try the various doors, not a place to live in.  For That purpose, the worst of the rooms (whichever that may be) is, I think, preferable."  
-
-"Above all, you must be asking which Door is the True One, not which pleases you best..."
+CS Lewis famously analogized denominations to rooms off a Great Hall, but the goal was to leave the Hall.  
+> "It is in the rooms, not in the hall that there are fires and chairs and meals. The Hall is a place from which to try the various doors, not a place to live in.  For That purpose, the worst of the rooms (whichever that may be) is, I think, preferable."  
+> "Above all, you must be asking which Door is the True One, not which pleases you best..."
 
 Contrast Lewis' vision with Wax seeking men and women who identify with the Hall:
 > For this reason, the question I’ve been asking lately isn’t if there are “real Christians” out there, but whether there are “classic evangelicals.” Is there a future for Christians in various denominations and different countries who share the instincts of leaders like John Stott and J. I. Packer...?
 
-So, to mix the analogies, Wax sees the Hall as the safe middle ground between the rooms of Fundamentalism and the outdoors of Progressivism. He asks if the "debates of the last decade may have jeopardized one of the primary insights from this cross-denominational renewal movement—": the gospel lets us avoid fundamentalism on the one hand, and progressivism on the other hand.  
+So, to mix the analogies, Wax sees the Hall as the safe middle ground between the rooms of Fundamentalism and the outdoors of Progressivism. He asks if the "debates of the last decade may have jeopardized one of the primary insights from this cross-denominational renewal movement—": the gospel lets us avoid fundamentalism on the one hand, and progressivism on the other hand."  Fundamentalism is behind every door.
 
-There is a door off the great hall that contains fundamentalists.  But the answer to fundamentalism is not to be "transdenominational" (whatever that is), or to have churches that don't care as much about denominational distinctives. There is no sign that "transdenominationalism" has the tools for reproducing for generation after generation.    It is to be, more intently, a room that isn't fundamentalist.  
+There *are* doors off the great hall that contains fundamentalists; they tend to be hard to open from the outside. If there's an actual fundamentalist threat, the answer is to work on making the room less fundamentalists.
 
-But "being a room that isn't fundamentalist" is dramatically different than creating a class of "transdenominationalists" with a hand on the lintel of a doorpost, but two feet in the Hall.  Rather than be the *most* representative of the good things in the Hall, such men are *least* like those in the Hall.  And they're closest to the angry critiques from those who are passing out the door, looking for another room.
+"Being in a room that isn't fundamentalist" is dramatically different than imagining a class of "transdenominationalists" thought leaders, with a hand on a lintel and two feet in the Hall.  Those men are the *least* like those in the room. They hear all the angry critiques from those who are passing out the door, back into the Hall.  And so, the consensus in the Hall is that the rooms must be full of dangerous fundamentalists, compared to the Hall, full of people who don't care about such things.
 
-The Hall is a mirage -- it's the shape created by the rooms.  The rooms are not created by the Hall.  If we want a health hall, it comes from people made healthy in the rooms.  
+But the Hall is a mirage.  It given a shape by the rooms; the rooms are not created by the Hall.  And health comes from inside the rooms, not the Hall; in fact, the Hall is only full when people won't (or can't) go into the rooms.
 
-If there's a future for "evangelicals," it requires each Christian to find a congregation and an ecclesiology and build it into something that can pass down the inheritance to the next generation.  
+If there's a future for "evangelicals," it requires each Christian to find a congregation and an ecclesiology and build it into something that can pass down the inheritance to the next generation.  Putting a new set of institutions in the Hall will end in the same place: a wasted decade, and another neo-.

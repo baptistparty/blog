@@ -94,7 +94,7 @@ And if there is anything open to good-faith religious debate, it is how to measu
 
 So we know *some* evangelical objections to the vaccine are grounded in a religious framework. And the outcome of that framework depends on matters of conscience.  *Most Christians* will believe the good of the vaccine *vastly* outweighs the distant and remote relationship to an abortion in the 1960s. But some will honestly conclude otherwise, based on religious principle.  
 
-Thankfully, there is nothing new about such objections, and they don't present *any* real threat to religious liberty.
+Thankfully, [there is nothing new about such objections](https://baptist.party/2021/09/09/Vaccines-and-religious-two.html), and they don't present *any* real threat to religious liberty.
 
 [^1]:Bulverism: the rhetorical fallacy coined by CS Lewis, which combines circular reasoning with condescension and presumption; it explains why the person is wrong, by attacking motive. ↩
 

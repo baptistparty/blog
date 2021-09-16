@@ -5,7 +5,7 @@ comments: true
 author: Jon
 ---
 
-In the last post, I wrote about the Christian ethics of vaccines that have some connection to an immoral taking of life.  Christian theologians generally say connections should be avoided unless there's a grave reason.  If there's a grave reason, the question is whether those grave reasons are proportionate to the ethical concerns.
+In the [last post](https://baptist.party/2021/09/06/Vaccines-and-Religious-Liberty-One.html), I wrote about the Christian ethics of vaccines that have some connection to an immoral taking of life.  Christian theologians generally say connections should be avoided unless there's a grave reason.  If there's a grave reason, the question is whether those grave reasons are proportionate to the ethical concerns.
 
 Most Christian ethicists and most evangelicals say the grave risk of COVID-19 far outweighs any remote connection between the vaccines and a 1960s abortion.
 

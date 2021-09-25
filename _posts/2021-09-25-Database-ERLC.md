@@ -5,7 +5,7 @@ comments: true
 author: Jon
 ---
 
-## The Southern Baptist Convention is locked in dueling sex abuse crises
+### The Southern Baptist Convention is locked in dueling sex abuse crises
 
 One is a crisis of realization: our distinctives can have downsides.
 
@@ -49,7 +49,7 @@ And beyond that, another key factor: no body in the Convention wanted the hot po
 
 ---
 
-## The winds have shifted  
+### The winds have shifted  
 
 For one thing, people are more aware of real victims.  Hollywood might play up false claims of abuse, but it has become clear why the Harvey Weinsteins of the world might oversell that story. And while Jezebel and Potiphar's wife were real, so are Bill Gothard and Ravi Zacharias.  My first blog was keeping congregants informed about the fallout of a [sexual abuse scandal at my home church], where the pastor's son had fathered a child with his intern in the young adults ministry. Several years later, the pastor was caught in a relationship with another woman, too.  
 
@@ -59,7 +59,7 @@ The legal landscape has also shifted.  While there's not been a return to charit
 
 For these reasons, I think it's time for the SBC to at least have this debate.  Should we have a database?
 
-## Baptist Polity and databases
+### Baptist Polity and databases
 
 A database still has real hurdles and risks.  I am not sure most Baptists want it, or are willing to take the risk.
 
@@ -71,7 +71,7 @@ I think most such lawsuits would lose their claim.  The First Amendment should p
 
 Some will no doubt have a concern about the level of proof for reports, given I Timothy 5:19's requirement to avoid accusations against elders that don't have two or three witnesses.  I imagine churches will be able to screen requests for reports that meet the level of proof they feel is required.
 
-## Where?
+### Where?
 
 There are still good reasons not to put the database at the SBC Executive Committee.  And one of the biggest reasons is the stream of money that flows through the EC. The EC can be a fiduciary for the Convention.  It houses the Convention's credentials committee.  It protects the Convention's gifts.  It's difficult to imagine putting the database-for-churches service at the most power-restricted, cash-rich bottleneck of the Convention.  As much as the law has improved, it will be irresistible to those hoping to siphon money away from the SBC, for whatever reason.
 
@@ -83,7 +83,7 @@ For all these reasons, if Baptists want to really explore this idea, it should h
 
 The ERLC, however, has a long history in developing resources in this area.  All four of the ERLC's ministry assignments begin with "Assist[ing] churches."   The ERLC helps churches apply moral and ethical teachings, helps them communicate in the pblic area, and helps churches in their moral witness.  And the ERLC's ministry of helping churches promote religioius liberty is relevant to the First Amendment right of churches to share information about ministerial qualification with each other.
 
-## How can it get done?
+### How can it get done?
 
 The Convention defines the ministries of its entities.  
 

@@ -5,7 +5,7 @@ comments: true
 author: Jon
 ---
 
-The frazzled nerves of Americans are on full display. In April, we all hoped that we could get jabbed and relax. Instead, as summer vacation ends, parents must wrestle with science, pseudoscience, and politics to make plans for their students. 
+The frazzled nerves of Americans are on full display. In April, we all hoped that we could get jabbed and relax. Instead, as summer vacation ends, parents must wrestle with science, pseudoscience, and politics to make plans for their students.
 
 The most frazzled seem to be in the professional classes. People still want too-simple solutions and one-step plans. And the professionals' too-simple answer has been to “get the vaccine, and this will end.” It has turned into a one-step blame game: “if this doesn’t end, it’s because you didn’t get the vaccine.”
 
@@ -27,7 +27,7 @@ I'm vaccinated. I’m a cancer survivor. I was scientifically poisoned in the �
 
 But while I share the ‘mainstream’ evangelical conclusion, it’s wrong to suggest all the other Evangelicals are liars and loons.
 
-And that third claim is particularly dangerous. It isn’t limited to COVID. Rather than view “religious liberty” as a Christian obligation to fellow humans, it sees “real religious liberty” as a chip in our negotiations with the State. It is the religious liberty you’d use to retain influence in a coalition government, not the principled religious liberty of early Baptists. 
+And that third claim is particularly dangerous. It isn’t limited to COVID. Rather than view “religious liberty” as a Christian obligation to fellow humans, it sees “real religious liberty” as a chip in our negotiations with the State. It is the religious liberty you’d use to retain influence in a coalition government, not the principled religious liberty of early Baptists.
 
 ## Vaccine Ethics are a balancing test, not a switch
 

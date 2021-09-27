@@ -51,7 +51,7 @@ And beyond that, another key factor: no body in the Convention wanted the hot po
 
 ---
 
-### The winds have shifted
+### The winds have shifted on the need for communication
 
 For one thing, people are more aware of real victims. Hollywood might play up false claims of abuse, but it has become clear why the Harvey Weinsteins of the world might oversell that story. And while Jezebel and Potiphar's wife were real, so are Bill Gothard and Ravi Zacharias. My first blog was keeping congregants informed about the fallout of a [sexual abuse scandal at my home church], where the pastor's son had fathered a child with his intern in the young adults ministry. Several years later, the pastor suddenly resigned after his own adultery was uncovered.
 
@@ -61,6 +61,7 @@ The legal landscape has also shifted. While there's not been a return to charita
 
 For these reasons, I think it's time for the SBC to at least have this debate. Should we have a database?
 
+---
 ### Baptist Polity and databases
 
 A database still has real hurdles and risks. I am not sure most Baptists want it, or are willing to take the risk. I am not sure those Baptists who want it fully comprehend the risks.

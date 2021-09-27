@@ -84,7 +84,7 @@ More, the EC mostly provides services to the Convention, not the churches. It or
 
 For all these reasons, if Baptists want to really explore this idea, it should happen separately from the Executive Committee.
 
-The ERLC, however, has a long history in developing resources in this area. All four of the ERLC's ministry assignments begin with “Assist[ing] churches.”  The ERLC helps churches apply moral and ethical teachings, helps them communicate in the public area, and helps churches in their moral witness. And the ERLC's ministry of helping churches promote religious liberty is relevant to the First Amendment right of churches to share information about ministerial qualification with each other.
+The ERLC, however, has a long history in developing resources in this area, especially in the past few years.  Most Baptists will trust it on this issue.  And all four of the ERLC's ministry assignments begin with “Assist[ing] churches.”  The ERLC helps churches apply moral and ethical teachings, helps them communicate in the public area, and helps churches in their moral witness. And the ERLC's ministry of helping churches promote religious liberty is relevant to the First Amendment right of churches to share information about ministerial qualification with each other.
 
 ### How can it get done?
 

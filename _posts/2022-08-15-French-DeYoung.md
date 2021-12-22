@@ -11,7 +11,7 @@ Consider David French's recent response to Kevin DeYoung.
 
 DeYoung wrote a mild criticism of evangelical criticism.  Even valid jeremiads, said KDY, can descend into Bulverism.  In "Bulverism," a term coined by CS Lewis, the critic stops showing why an argument is wrong; instead, they show an argument is made by the wrong kind of person.  At some point, "[t]here is no persuasion, only pique and annoyance" at the targets. DeYoung suggested the rhythms of church life are a more productive place of self-criticism, instead of "another critique of the church in your inbox on Sunday morning."
 
-DeYoung mentioned French, but didn't really try to prove that French was over the line. There's a point that's too far, said DeYoung.  He even went out of his way to say that French's concerns were reasonable. You could have read the article and agreed with DeYoung (that a line exists) and French (that the line has not been crossed yet).
+DeYoung mentioned French, but didn't really try to prove that French was over the line. There's a point that's too far, said DeYoung. You could have read the article and agreed with DeYoung (that a line exists) and French (that the line has not been crossed yet).
 
 But French responded with irritation.  French said DeYoung was torching' a 'straw man' characterization of French's work.
 

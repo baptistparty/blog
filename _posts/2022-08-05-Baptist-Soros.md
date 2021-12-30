@@ -3,6 +3,7 @@ layout: post
 title: About that Soros Money
 comments: true
 author: Jon
+published: false
 ---
 
 Do you remember the stories about George Soros and the Southern Baptist Convention?

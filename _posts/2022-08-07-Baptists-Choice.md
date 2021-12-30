@@ -3,6 +3,7 @@ layout: post
 title: Baptists at the end of choice
 comments: true
 author: Jon
+published: false
 ---
 
 On the right wing of American politics, there has been a lot of debate over "liberalism."  "Liberalism" already had a negative conotation among Evangelicals, who know it as their opposites in politics and religion.  So it might seem natural for them to join in the fray. 

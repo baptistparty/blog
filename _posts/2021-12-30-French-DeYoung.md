@@ -15,11 +15,11 @@ DeYoung went out of his way to say that French's concerns are valid. He criticiz
 
 But French responded with hostility. French said DeYoung was absurdly unfair and inaccurate, torching' a 'straw man' characterization of French's work.
 
-So what does *French* say is his driving thesis? In [tweet four](https://twitter.com/DavidAFrench/status/1471572762175156230), he lays it out clearly: 'White Evangelical theologies' have a 'disproportionate commitment' to Republicans and 'the culture of the South.' DeYoung concedes that people *can* forsake theological principle under social pressure, and even that it is important to criticize those who do.
+So to avoid mischarachterization, what does *French* say is his driving thesis? In [tweet four](https://twitter.com/DavidAFrench/status/1471572762175156230), he lays it out clearly: 'White Evangelical theologies' have a 'disproportionate commitment' to Republicans and 'the culture of the South.' DeYoung concedes that people *can* forsake theological principle under social pressure, and even that it is important to criticize those who do.
 
-If we agree the concern is *possible,* how does French say we should decide? How would we decide whether there's a disproportionate commitment to something that isn't religious principle? In [tweets 2 and 3](https://twitter.com/DavidAFrench/status/1471572759457247246), French lays out another claim, with equal clarity. He says white Evangelicals have "propositions" that "don't flow naturally" from their theology. Their positions on 'Trumpism, anti-masking, anti-vaccine and immigration restrictionism' don't flow from theological claims, but political or social claims.
+If we agree the concern is *possible,* how does French say we should decide? How would we know if there's a disproportionate commitment to something that isn't religious principle? In [tweets 2 and 3](https://twitter.com/DavidAFrench/status/1471572759457247246), French says white Evangelicals have "propositions" that "don't flow naturally" from their theology. Their positions on 'Trumpism, anti-masking, anti-vaccine and immigration restrictionism' don't flow from theological claims, but political or social claims.
 
-So the issue is multidisciplinary; do the politics follow from the theology? You'd be forgiven in thinking there must be a multidisciplinary answer.
+So the issue is multidisciplinary: do the politics follow from the theology? You'd be forgiven in thinking there must be a multidisciplinary answer.
 
 Yet French says few theologians have the chops to speak up. "[Sadly, when I see pastors wad in on matters of law/policy](https://twitter.com/DavidAFrench/status/1471572764549173252), it is rare to see superior insight. And when I do it's because of a degree of committed study that is highly unusual."
 

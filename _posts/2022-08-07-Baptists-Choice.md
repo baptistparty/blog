@@ -5,7 +5,7 @@ comments: true
 author: Jon
 ---
 
-On the right wing of American politics, there has been a lot of debate over "liberalism."  Liberalism already had a negative conotation among Evangelicals, who know "liberalism" as their opposites in politics and religion.  So it might seem natural for them to join in the fray. 
+On the right wing of American politics, there has been a lot of debate over "liberalism."  "Liberalism" already had a negative conotation among Evangelicals, who know it as their opposites in politics and religion.  So it might seem natural for them to join in the fray. 
 
 But critics of liberalism have a more sweeping thing in mind: the 'liberal democracy' of Western politics.  Liberal democracy, as in the common political thread linking countries opposed to communism and fascim.  Where it once seemed that liberal democracy had defeated its foes, today it is not so clear. Would any new nation embrace advice from a cadre of US advisors?  How did that work out for Afghanistan?  
 

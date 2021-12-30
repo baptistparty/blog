@@ -9,9 +9,9 @@ Have you ever run into someone tipsy with anger? The Romans used to say, “in v
 
 Consider David French's [recent exchange with Kevin DeYoung](https://twitter.com/DavidAFrench/status/1471572764549173252).
 
-DeYoung [wrote a mild criticism of evangelical criticism](https://wng.org/opinions/deyoung-on-white-evangelicalism-1639659990). Even valid jeremiads, suggests KDY, can descend into claims that "those people" hold their views because they are "those kind of people." CS Lewis coined it "Bulverism,” where a critic stops showing why a view is wrong and turns showing that wrong kind of person holds the view. At some point, "[t]here is no persuasion, only pique and annoyance" at the target. DeYoung suggested the rhythms of church life are a more productive method of self-criticism, instead of "another critique of the church in your inbox on Sunday morning."
+DeYoung [wrote a mild criticism of evangelical criticism](https://wng.org/opinions/deyoung-on-white-evangelicalism-1639659990). Even valid jeremiads, suggests KDY, can descend into claims that "those people" hold their views because they are "those kind of people." CS Lewis coined it "Bulverism,” where a critic stops showing why a view is wrong and turns to why the wrong kind of person holds the view. At some point, "[t]here is no persuasion," of the target, "only pique and annoyance," says DeYoung.  He suggests the rhythms of church life are a more productive method of self-criticism, instead of "another critique of the church in your inbox on Sunday morning."
 
-DeYoung went out of his way to say that French's concerns are valid but that his methods wouldn't persuade.  There was room for French to agree that DeYoung's concerns are valid, but disagree that his methods were unhelpful.
+DeYoung went out of his way to say that French's concerns are valid. He criticized French's abandonment of persuasion.  There was room for French to agree that DeYoung's concerns are valid, but disagree that his methods were unhelpful.
 
 But French responded with hostility. French said DeYoung was absurdly unfair and inaccurate, torching' a 'straw man' characterization of French's work.
 

@@ -42,7 +42,7 @@ In the (human) law, that kind of uncertainty produced "legal realism." The reali
 
 The effects and outcomes became the wrapper of truth around the vague, indeterminate words of the law.
 
-And here lies the nub: to the textual realist, it is all too easy for the observable effects to become the analytical tools, the *real* universal principles. Lickety-split, the "true truth" is not the text, but observations and judgments about the outcomes. If our texts can't compel the right outcomes, we must settle disagreements by resorting to theories that decide for us -- the theories that "help us see effects of sin" where our doctrines do not.
+And here lies the nub: to the textual realist, it is all too easy for the observable effects to become the analytical tools, the *real* universal principles. Lickety-split, the "true truth" is not the text, but observations and judgments about the outcomes. If our texts can't compel the right outcomes, we must settle disagreements by resorting to theories that decide for us -- the theories that "help us see *effects* of sin" where our doctrines do not.
 
 Like the scholars raised in the Mainline a century ago, today's Evangelical scholastics are shaken in their beliefes about the sources of Evangelical authority. It isn't a repeat of Machen's 1920s, but it rhymes. Some of them are grasping for truth beyond the reach of theology, where the Evangelical theological parochialisms are all the same.
 

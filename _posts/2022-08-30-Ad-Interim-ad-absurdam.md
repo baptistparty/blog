@@ -4,6 +4,7 @@ title: The SBC's Matthew 18 Crisis
 comments: true
 link: 
 author: Jon
+published: false
 ---
 
 Your Southern Baptist Convention entities have a Matthew 18 crisis.

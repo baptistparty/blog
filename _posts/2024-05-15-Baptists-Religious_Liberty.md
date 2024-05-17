@@ -33,20 +33,13 @@ MAY 16, 1916
 Southern Baptists count it a high privilege to hold their Annual Convention this year in the national capital, and they count it one of life’s highest privileges to be citizens of our one great, united country.
 
 Grand in her rivers and her rills,
-
-Grand in her woods and templed hills;
-
+  Grand in her woods and templed hills;
 Grand in the wealth that glory yields,
-
-Illustrious dead, historic fields;
-
+  Illustrious dead, historic fields;
 Grand in her past, her present grand,
-
-In sunlit skies, in fruitful land;
-
+  In sunlit skies, in fruitful land;
 Grand in her strength on land and sea,
-
-Grand in religious liberty.”
+  Grand in religious liberty.
 
 It behooves us often to look backward as well as forward. We should be stronger and braver if we thought oftener of the epic days and deeds of our beloved and immortal dead. The occasional backward look would give us poise and patience and courage and fearlessness and faith. The ancient Hebrew teachers and leaders had a genius for looking backward to the days and deeds of their mighty dead. They never wearied of chanting the praises of Abraham and Isaac and Jacob, of Moses and Joshua and Samuel; and thus did they bring to bear upon the living the inspiring memories of the noble. actors and deeds of bygone days. Often such a cry as this rang in their ears: “Look unto the rock whence ye were hewn, and to the hole of the pit whence ye were digged. Look unto Abraham, your father, and unto Sarah that bare you; for when he was but one I called him, and I blessed him, and made him many.”
 
@@ -113,12 +106,9 @@ To Baptists, the New Testament also clearly teaches that Christ’s church is no
 Every state church on the earth is a spiritual tyranny. And just as long as there is left upon this earth any state church, in any land, the task of Baptists will that long remain unfinished. Their cry has been and is and must ever be this:
 
 “Let Cesar’s dues be paid
-
-To Cesar and his throne;
-
+  To Cesar and his throne;
 But consciences and souls were made
-
-To be the Lord’s alone.”
+  To be the Lord’s alone.”
 
 ##  A FREE CHURCH IN A FREE STATE
 
@@ -156,45 +146,30 @@ On and on was the struggle waged by our Baptist fathers for religious liberty in
 
 Glad are our Baptist people to pay their grateful tribute to their fellow Christians of other religious communions for all their sympathy and help in this sublime achievement. Candour compels me to repeat that much of the sympathy of other religious leaders in that early struggle was on the side of legalised ecclesiastical privilege. Much of the time were Baptists pitiably lonely in their age-long struggle. We would now and always make our most grateful acknowledgment to any and all who came to the side of our Baptist fathers, whether early or late, in this destiny-determining struggle. But I take it that every informed man on the subject, whatever his religious faith, will be willing to pay tribute to our Baptist people as being the chief instrumentality in God’s hands in winning the battle in America for religious liberty. Do you recall Tennyson’s little poem, in which he sets out the history of the seed of freedom? Catch its philosophy:
 
- “Once in a golden hour,
-
-I cast to earth a seed,
-
+Once in a golden hour,
+  I cast to earth a seed,
 Up there came a flower,
+  The people said, a weed.
 
-The people said, a weed.
-
- “To and fro they went,
-
-Through my garden bower,
-
+To and fro they went,
+  Through my garden bower,
 And muttering discontent,
+  Cursed me and my flower.
 
-Cursed me and my flower.
-
- “Then it grew so tall,
-
-It wore a crown of light,
-
+Then it grew so tall,
+  It wore a crown of light,
 But thieves from o’er the wall,
+  Stole the seed by night.
 
-Stole the seed by night.
-
-“Sowed it far and wide,
-
-By every town and tower,
-
+Sowed it far and wide,
+  By every town and tower,
 Till all the people cried,
+  ‘Splendid is the flower.’
 
-‘Splendid is the flower.’
-
- “Read my little fable:
-
-He who runs may read,
-
+Read my little fable:
+  He who runs may read,
 Most can grow the flowers now,
-
-For all have got the seed.”
+  For all have got the seed.”
 
  Very well, we are very happy for all our fellow religionists of every denomination and creed to have this splendid flower of religious liberty, but you will allow us to remind you that you got the seed in our Baptist garden. We are very happy for you to have it; now let us all make the best of it and the most of it.
 
@@ -218,7 +193,10 @@ Let us remember that lawlessness, wherever found and whatever its form, is as th
 
 God does not raise up a nation to go selfishly strutting and forgetful of the high interests of humanity. National selfishness leads to destruction as truly as does individual selfishness. Nations can no more live to themselves than can individuals. Humanity is bound up together in the big bundle of life. The world is now one big neighbourhood. There are no longer any hermit nations. National isolation is no longer possible in the earth. The markets of the world instantly register every commercial change. An earthquake in Asia is at once registered in Washington City. The people on one side of the world may not dare to be indifferent to the people on the other side. Every man of us is called to be a world citizen, and to think and act in world terms. The nation that insists upon asking that old murderous question of Cain, “Am I my brother’s keeper?” the question of the profiteer and the question of the slacker, is a nation marked for decay and doom and death. The parable of the good Samaritan is heaven’s law for nations as well as for individuals. Some things are worth dying for, and if they are worth dying for they are worth living for. The poet was right when he sang:
 
-“Though love repine and reason chefe, There comes a voice without reply, Tis man’s perdition to be safe, When for the truth he ought to die.”
+“Though love repine and reason chefe, 
+  There comes a voice without reply, 
+Tis man’s perdition to be safe, 
+  When for the truth he ought to die.”
 
 ## THINGS WORTH DYING FOR
 
@@ -226,23 +204,16 @@ When this nation went into the world war a little while ago, after her long and 
 
 The integrity of one’s country is worth dying for. And, please God, the freedom and honour of the United States of America are worth dying for. If the great things of life are worth dying for, they are surely worth living for. Our great country may not dare to isolate herself from the rest of the world, and selfishly say: “We propose to live and to die to ourselves, leaving all the other nations with their weaknesses and burdens and sufferings to go their ways without our help.” ‘This nation cannot pursue any such policy and expect the favour of God. Myriads of voices, both from the living and the dead, summon us to a higher and better way. Happy am I to believe that God has His prophets not only in the pulpits of the churches but also in the school room, in the editor’s chair, in the halls of legislation, in the marts of commerce, in the realms of literature. Tennyson was a prophet, when in “Locksley Hall,” he sang:
 
- “For I dipped into the future, far as human eye could see,
-
-Saw the vision of the world, and all the wonder that would be;
-
+For I dipped into the future, far as human eye could see,
+  Saw the vision of the world, and all the wonder that would be;
 Saw the heavens filled with commerce, argosies of magic sails,
-
-Pilots of the purple twilight, dropping down with costly bales;
-
+  Pilots of the purple twilight, dropping down with costly bales;
 Heard the heavens filled with shouting, and there rained a ghastly dew
-
-From the nation’s airy navies, grappling in the central blue;
-
+  From the nation’s airy navies, grappling in the central blue;
 Far along the world-wide whisper of the south wind rushing warm,
-
-With the standards of the people plunging through the thunder storm.
-
-Till the war drums throbbed no longer, and the battleflags were furled, In the Parliament of Man, the Federation of the World.”
+  With the standards of the people plunging through the thunder storm.
+Till the war drums throbbed no longer, and the battleflags were furled, 
+  In the Parliament of Man, the Federation of the World.”
 
 ##  A LEAGUE OF NATIONS
 
@@ -252,13 +223,17 @@ The moral and religious forces of this country could not be supine and inactive 
 
 The recent World War calls to us with a voice surpassingly appealing and responsible. Surely Alfred Noyes voices the true desire for us:
 
- “Make firm, O God, the peace our dead have won, For folly shakes the tinsel on its head, And points us back to darkness and to hell, Cackling, ‘Beware of visions,’ while our dead Still cry, ‘It was for visions that we fell.’
-
- “They never knew the secret game of power, All that this earth can give they thrust aside,
-
-They crowded all their youth into an hour, And for fleeting dream of right, they died.
-
-“Oh, if we fail them in that awful trust, How should we bear those voices from the dust?”
+ Make firm, O God, the peace our dead have won, 
+   For folly shakes the tinsel on its head, 
+ And points us back to darkness and to hell, 
+   Cackling, ‘Beware of visions,’ while our dead 
+ Still cry, ‘It was for visions that we fell.’
+   They never knew the secret game of power, 
+ All that this earth can give they thrust aside,
+   They crowded all their youth into an hour, 
+ And for fleeting dream of right, they died.
+   Oh, if we fail them in that awful trust, 
+ How should we bear those voices from the dust?
 
 ##  THE RIGHT KIND OF CHRISTIANS
 
@@ -280,15 +255,26 @@ The one transcending inspiring influence in civilisation is the Christian religi
 
 Preceding and accompanying the task of building our Christian schools, we must keep faithfully and practically in mind our primary task of evangelism, the work of winning souls from sin unto salvation, from Satan unto God. This work takes precedence of all other work in the Christian programme. Salvation for sinners is through Jesus Christ alone, nor is there any other name or way under heaven whereby they may be saved. Our churches, our schools, our religious papers, our hospitals, every organisation and agency of the churches should be kept aflame with the passion of New Testament evangelism. Our cities and towns and villages and country places are to echo continually with the sermons and songs of the gospel evangel. The people, high and low, rich and poor, the foreigners, all the people are to be faithfully told of Jesus and His great salvation, and entreated to come unto Him to be saved by Him and to become His fellow workers. The only sufficient solvent for all the questions in America, individual, social, economic, industrial, financial, political, educational, moral and religious, is to be found in the Saviourhood and Lordship of Jesus Christ.
 
- “Give is a watchword for the hour, A thrilling word, a word of power; A battle cry, a flaming breath, That calls to conquest or to death; A word to rouse the church from rest, To heed its Master’s high behest, The call is given, Ye hosts, arise; Our watchword is Evangelise!
+“Give is a watchword for the hour, 
+   A thrilling word, a word of power; 
+A battle cry, a flaming breath, 
+  That calls to conquest or to death; 
+A word to rouse the church from rest, 
+  To heed its Master’s high behest, 
+The call is given, Ye hosts, arise; 
+  Our watchword is Evangelise!
+The glad Evangel now proclaim, 
+  Through all the earth in Jesus’ name,
+This word is ringing through the skies, 
+  Evangelise! Evangelise! 
+To dying men, a fallen race, 
+  Make known the gift of Gospel Grace; 
+The world that now in darkness lies, 
+  Evangelise! Evangelise!”’
 
- “The glad Evangel now proclaim, Through all the earth in Jesus’ name,
+While thus caring for the homeland, we are at the same time to see to it that our programme is co-extensive with Christ’s programme for the whole world. The whole world is our field, nor may we, with impunity, dare to be indifferent to any section, however remote, not a whit less than that, and with our plans sweeping the whole earth, we are to go forth with believing faith and obedient service, to seek to bring all humanity, both near and far, to the faith and service of Him who came to be the propitiation for our sins, and not for ours only, but also for the sins of the whole world.
 
-This word is ringing through the skies, Evangelise! Evangelise! To dying men, a fallen race, Make known the gift of Gospel Grace; The world that now in darkness lies, Evangelise! Evangelise!”’
-
- While thus caring for the homeland, we are at the same time to see to it that our programme is co-extensive with Christ’s programme for the whole world. The whole world is our field, nor may we, with impunity, dare to be indifferent to any section, however remote, not a whit less than that, and with our plans sweeping the whole earth, we are to go forth with believing faith and obedient service, to seek to bring all humanity, both near and far, to the faith and service of Him who came to be the propitiation for our sins, and not for ours only, but also for the sins of the whole world.
-
-His commission covers the whole world and reaches to every human being. Souls in China, and India, and Japan, and Europe, and Africa, and the islands of the sea, are as precious to Him as souls in the United States. By the love we bear our Saviour, by the love we bear our fellows, by the greatness and preciousness of the trust committed to us, we are bound to take all the world upon our hearts and to consecrate our utmost strength to bring all humanity under the sway of Christ’s redeeming love. Let us go to such task, saying with the immortal Wesley, “The world is my | parish,” and with him may we also be able to say, “And best of all, God is with us.”
+His commission covers the whole world and reaches to every human being. Souls in China, and India, and Japan, and Europe, and Africa, and the islands of the sea, are as precious to Him as souls in the United States. By the love we bear our Saviour, by the love we bear our fellows, by the greatness and preciousness of the trust committed to us, we are bound to take all the world upon our hearts and to consecrate our utmost strength to bring all humanity under the sway of Christ’s redeeming love. Let us go to such task, saying with the immortal Wesley, “The world is my parish,” and with him may we also be able to say, “And best of all, God is with us.”
 
 ## A GLORIOUS DAY
 
@@ -305,25 +291,14 @@ Let us look again to the strange passion and power of the early Christians. They
 If in such spirit we will give ourselves to all the duties that await us, then we may go our ways, singing more vehemently than our fathers sang them, those lines of Whittier:
 
 “Our fathers to their graves have gone,
-
-Their strife is passed, their triumphs won;
-
+  Their strife is passed, their triumphs won;
 But greater tasks await the race
-
-Which comes to take their honoured place,
-
+  Which comes to take their honoured place,
 A moral warfare with the crime
-
-And folly of an evil time.
-
+  And folly of an evil time.
 “So let it be, in God’s own sight,
-
-We gird us for the coming fight;
-
+  We gird us for the coming fight;
 And strong in Him whose cause is ours,
-
-In conflict with unholy powers,
-
+  In conflict with unholy powers,
 We grasp the weapons He has given,
-
-The light and truth and love of Heaven.”
+  The light and truth and love of Heaven.”
